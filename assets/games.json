@@ -1,82 +1,5596 @@
-[{
-  "e": "ep1",
-  "date": "Aug 3, 2021",
-  "yTitle": "FIRST SHOW EVER!!! WILD ACTION $5/5",
-  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
-  "game": [
-    { "player": "Jhon", "result": 1000 }, {
-      "player": "Nick",
-      "result": 3000
-    }, {
-      "player": "Boris",
-      "result": -3000
-    },  {
-      "player": "Petya",
-      "result": -13000
-    }
-  ],
-  "total": 21000
-},{
-  "e": "ep2",
-  "date": "Aug 4, 2021",
-  "yTitle": "$50 Ante Game",
-  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
-  "game": [
-    {
-      "player": "Jhon",
-      "result": -1000
-    }, {
-      "player": "Nick",
-      "result": -3000
-    }, {
-      "player": "Boris",
-      "result": 3000
-    },  {
-      "player": "Petya",
-      "result": -13000
-    }
-  ],
-  "total": 21000
-},{
-  "e": "ep3",
-  "date": "Sept 3, 2021",
-  "yTitle": "Hustler Casino Live - YouTube Competition",
-  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
-  "game": [
-    {
-      "player": "Jhon",
-      "result": -11000
-    }, {
-      "player": "Nick",
-      "result": -13000
-    }, {
-      "player": "Boris",
-      "result": 13000
-    },  {
-      "player": "Petya",
-      "result": 23000
-    }
-  ],
-  "total": 21000
-},{
-  "e": "ep4",
-  "date": "Sept 4, 2021",
-  "yTitle": "Hustler Casino Live - YouTube Competition2",
-  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
-  "game": [
-    {
-      "player": "Jhon",
-      "result": -11000
-    }, {
-      "player": "Nicky",
-      "result": -13000
-    }, {
-      "player": "Boris Red",
-      "result": 13000
-    },  {
-      "player": "Petya",
-      "result": 23000
-    }
-  ],
-  "total": 21000
-}]
+[
+  {
+    "e": "ep01",
+    "date": "Aug 3, 2021",
+    "yTitle": "FIRST SHOW EVER!!! WILD ACTION $5/5 + $50 Ante Game - Hustler Casino Live - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710120952&amp;usg=AOvVaw34KfOSEabVsfXZqn9uHsam",
+    "game": [
+      {
+        "player": "Jack",
+        "result": 40215
+      },
+      {
+        "player": "Eli",
+        "result": 16620
+      },
+      {
+        "player": "Bear Jew",
+        "result": 9735
+      },
+      {
+        "player": "Nick V",
+        "result": 3435
+      },
+      {
+        "player": "Big John",
+        "result": 2120
+      },
+      {
+        "player": "Denis",
+        "result": -2660
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -6995
+      },
+      {
+        "player": "Mike Nia",
+        "result": -20180
+      },
+      {
+        "player": "Pablo",
+        "result": -21150
+      }
+    ],
+    "total": 21140
+  },
+  {
+    "e": "ep02",
+    "date": "Aug 4, 2021",
+    "yTitle": "Adam22 Plays Poker!!! $5/5/10 No Limit Hold'em - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Bxz80vvDHEk&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710122319&amp;usg=AOvVaw1Hj6OK99r29Wc4QOG0TZYC",
+    "game": [
+      {
+        "player": "Barry Woods",
+        "result": 4295
+      },
+      {
+        "player": "Aaron",
+        "result": 2270
+      },
+      {
+        "player": "Richard",
+        "result": 1590
+      },
+      {
+        "player": "Adam22",
+        "result": 1285
+      },
+      {
+        "player": "Cookie Monst",
+        "result": 760
+      },
+      {
+        "player": "raver poker",
+        "result": 290
+      },
+      {
+        "player": "chris H",
+        "result": -450
+      },
+      {
+        "player": "R88ster",
+        "result": -1420
+      },
+      {
+        "player": "Big Al",
+        "result": -2030
+      }
+    ],
+    "total": 6590
+  },
+  {
+    "e": "ep03",
+    "date": "Aug 5, 2021",
+    "yTitle": "Israeli Ron, Barry Woods & Julie Yorn Play $10/20 No Limit Hold'em - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=5SeSd5nf2w4&t=1s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710123551&amp;usg=AOvVaw0DOGfKVM5x7OjGEtvfZe8G",
+    "game": [
+      {
+        "player": "Bear Jew",
+        "result": 12350
+      },
+      {
+        "player": "patrick",
+        "result": 9410
+      },
+      {
+        "player": "Ronnie",
+        "result": 6330
+      },
+      {
+        "player": "Mike",
+        "result": 4880
+      },
+      {
+        "player": "Julie Yorn",
+        "result": 830
+      },
+      {
+        "player": "Barry Woods",
+        "result": -2010
+      },
+      {
+        "player": "Isreali Ron",
+        "result": -4590
+      },
+      {
+        "player": "Nick",
+        "result": -13020
+      },
+      {
+        "player": "GT",
+        "result": -14360
+      }
+    ],
+    "total": "-180"
+  },
+  {
+    "e": "ep04",
+    "date": "Aug 6, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER with Antonio Esfandiari & Andy - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=lHWwCO7I16g&t=387s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710124648&amp;usg=AOvVaw0JTQbjP3_CBbS6Lg8vRDnc",
+    "game": [
+      {
+        "player": "mikki",
+        "result": 119500
+      },
+      {
+        "player": "Jermey",
+        "result": 45350
+      },
+      {
+        "player": "russ",
+        "result": 25500
+      },
+      {
+        "player": "Nick V",
+        "result": 12400
+      },
+      {
+        "player": "George",
+        "result": -3750
+      },
+      {
+        "player": "john john",
+        "result": -27800
+      },
+      {
+        "player": "Andy",
+        "result": -83025
+      },
+      {
+        "player": "Antonio Est",
+        "result": -88175
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep05",
+    "date": "Aug 7, 2021",
+    "yTitle": "POT LIMIT OMAHA! $5/10 PLO with DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=BHrZFvjwtWU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710125671&amp;usg=AOvVaw1ohFEYBWFE6CQsXGyLvuYi",
+    "game": [
+      {
+        "player": "Marc",
+        "result": 12240
+      },
+      {
+        "player": "Denis",
+        "result": 5370
+      },
+      {
+        "player": "Surf",
+        "result": 3190
+      },
+      {
+        "player": "Paul",
+        "result": 2920
+      },
+      {
+        "player": "Bing",
+        "result": 2660
+      },
+      {
+        "player": "Eeman",
+        "result": 5
+      },
+      {
+        "player": "Austin",
+        "result": -135
+      },
+      {
+        "player": "Andrew",
+        "result": -5945
+      },
+      {
+        "player": "Suited Super",
+        "result": -6280
+      },
+      {
+        "player": "Charlie",
+        "result": -7335
+      },
+      {
+        "player": "Mickey Mouse",
+        "result": -8950
+      }
+    ],
+    "total": -2260
+  },
+  {
+    "e": "ep06",
+    "date": "Aug 10, 2021",
+    "yTitle": "https://www.youtube.com/watch?v=Tk_yyjuoDb8&ab_channel=HustlerCasinoLive",
+    "yLink": "https://www.youtube.com/watch?v=Tk_yyjuoDb8&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710126845&amp;usg=AOvVaw3wRbZIvz7lyYAPPdASzeFx",
+    "game": [
+      {
+        "player": "Eli",
+        "result": 39225
+      },
+      {
+        "player": "Luda Chris",
+        "result": 36745
+      },
+      {
+        "player": "Nick",
+        "result": 15945
+      },
+      {
+        "player": "GT",
+        "result": 3005
+      },
+      {
+        "player": "Francisco",
+        "result": 2970
+      },
+      {
+        "player": "Big John",
+        "result": 1470
+      },
+      {
+        "player": "Shy",
+        "result": -1050
+      },
+      {
+        "player": "Pablo",
+        "result": -14975
+      },
+      {
+        "player": "Sammy",
+        "result": -16555
+      },
+      {
+        "player": "Jack",
+        "result": -19655
+      },
+      {
+        "player": "Patrick",
+        "result": -22625
+      }
+    ],
+    "total": 24500
+  },
+  {
+    "e": "ep07",
+    "date": "Aug 11, 2021",
+    "yTitle": "5/5/10 NL with DGAF & Nichoel Jurgens - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=TorzS7HiBMA&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710128188&amp;usg=AOvVaw1UdTDyQrGJa-Hljrqra3xa",
+    "game": [
+      {
+        "player": "Denis",
+        "result": 9910
+      },
+      {
+        "player": "Oscar",
+        "result": 4165
+      },
+      {
+        "player": "Cowboy John",
+        "result": 3025
+      },
+      {
+        "player": "Michael L",
+        "result": 2590
+      },
+      {
+        "player": "Sofia",
+        "result": -95
+      },
+      {
+        "player": "Gypsy",
+        "result": -715
+      },
+      {
+        "player": "Big AL",
+        "result": -4730
+      },
+      {
+        "player": "Marc",
+        "result": -5805
+      },
+      {
+        "player": "Mike",
+        "result": -8345
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep08",
+    "date": "Aug 12, 2021",
+    "yTitle": "10/20 NO LIMIT HOLD'EM with DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=SZExgypRSjE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710129267&amp;usg=AOvVaw0agGuE-VSlHOhYTogGWUs_",
+    "game": [
+      {
+        "player": "Cowboy John",
+        "result": 5690
+      },
+      {
+        "player": "Leo",
+        "result": 4640
+      },
+      {
+        "player": "Kgb",
+        "result": 2980
+      },
+      {
+        "player": "Ronnie",
+        "result": 3100
+      },
+      {
+        "player": "YG",
+        "result": 445
+      },
+      {
+        "player": "Eider",
+        "result": 170
+      },
+      {
+        "player": "Howard",
+        "result": -10
+      },
+      {
+        "player": "Francisco",
+        "result": -1655
+      },
+      {
+        "player": "AA",
+        "result": -1720
+      },
+      {
+        "player": "Candie",
+        "result": -4530
+      },
+      {
+        "player": "Nick V",
+        "result": -3080
+      },
+      {
+        "player": "Chris (black g",
+        "result": -5720
+      }
+    ],
+    "total": "310"
+  },
+  {
+    "e": "ep09",
+    "date": "Aug 13, 2021",
+    "yTitle": "Garrett Adelstein Makes His HCL Debut!! HIGH STAKES $50/100 - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=uYcMyfVnR3E&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710130681&amp;usg=AOvVaw27XZwYHwwLRadHKxzOYbTA",
+    "game": [
+      {
+        "player": "Garrett",
+        "result": 60700
+      },
+      {
+        "player": "George",
+        "result": 15175
+      },
+      {
+        "player": "Jeremy",
+        "result": 8450
+      },
+      {
+        "player": "Armenian Mki",
+        "result": 1600
+      },
+      {
+        "player": "Barry",
+        "result": -21950
+      },
+      {
+        "player": "Nick",
+        "result": -2100
+      },
+      {
+        "player": "Francisco",
+        "result": -22750
+      },
+      {
+        "player": "Julie",
+        "result": -41250
+      }
+    ],
+    "total": "-25"
+  },
+  {
+    "e": "ep10",
+    "date": "Aug 16, 2021",
+    "yTitle": "10/20 POT LIMIT OMAHA w/ Denis & Big Al - Commentary by Adam Johnson - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=QEoKAJ9PkX4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710131849&amp;usg=AOvVaw1VyNa3gG6khtz-jsyFxgxI",
+    "game": [
+      {
+        "player": "Paul Malibu",
+        "result": 8010
+      },
+      {
+        "player": "Alfie",
+        "result": 7060
+      },
+      {
+        "player": "Gummy Bear",
+        "result": 2505
+      },
+      {
+        "player": "Matt",
+        "result": 935
+      },
+      {
+        "player": "Tiger King",
+        "result": -2125
+      },
+      {
+        "player": "Big AL",
+        "result": -2500
+      },
+      {
+        "player": "Jack",
+        "result": -1500
+      },
+      {
+        "player": "Sammy",
+        "result": -5560
+      },
+      {
+        "player": "Denis",
+        "result": -6645
+      }
+    ],
+    "total": "180"
+  },
+  {
+    "e": "ep11",
+    "date": "Aug 17, 2021",
+    "yTitle": "JOHNNIE VIBES Commentates on CRAZY ACTION ANTE GAME w/ Mike Matusow & Pablo - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Q1KUcbaXSus&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710133060&amp;usg=AOvVaw0uJJHTaLqVM8P_VEcLl_I2",
+    "game": [
+      {
+        "player": "Johnny",
+        "result": 50265
+      },
+      {
+        "player": "Shy",
+        "result": 19750
+      },
+      {
+        "player": "Mike",
+        "result": 6330
+      },
+      {
+        "player": "Zeo",
+        "result": 480
+      },
+      {
+        "player": "Josh",
+        "result": -235
+      },
+      {
+        "player": "Brian",
+        "result": -6005
+      },
+      {
+        "player": "Francisco",
+        "result": -1805
+      },
+      {
+        "player": "Derek",
+        "result": -5000
+      },
+      {
+        "player": "Big John",
+        "result": -7350
+      },
+      {
+        "player": "Nick",
+        "result": -22275
+      },
+      {
+        "player": "Pablo",
+        "result": -33795
+      }
+    ],
+    "total": "360"
+  },
+  {
+    "e": "ep12",
+    "date": "Aug 18, 2021",
+    "yTitle": "Adam22 & DJ Melo D Play $5/5/10 NL - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=lgk7dovPtbo&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710134628&amp;usg=AOvVaw1b_Hbs0Rlwd14a05NY6AhZ",
+    "game": [
+      {
+        "player": "Andrew",
+        "result": 11715
+      },
+      {
+        "player": "Eric",
+        "result": 5790
+      },
+      {
+        "player": "Barry",
+        "result": 2930
+      },
+      {
+        "player": "Freckles",
+        "result": 1650
+      },
+      {
+        "player": "Alex",
+        "result": 750
+      },
+      {
+        "player": "Butterfli",
+        "result": -1040
+      },
+      {
+        "player": "DJ Melo D",
+        "result": -1345
+      },
+      {
+        "player": "Fat Sweater",
+        "result": -2965
+      },
+      {
+        "player": "Adam22",
+        "result": -3030
+      },
+      {
+        "player": "Brian",
+        "result": -3530
+      },
+      {
+        "player": "Richard",
+        "result": -10945
+      }
+    ],
+    "total": "-20"
+  },
+  {
+    "e": "ep13",
+    "date": "Aug 19, 2021",
+    "yTitle": "Mike Matusow Plays $10/20/40 NL - Commentary by Norman Chad & David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=xvsGNLR0IMQ&t=6567s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710136116&amp;usg=AOvVaw0m-vb6LgVP2V9MrL5rySR-",
+    "game": [
+      {
+        "player": "Mike Nia",
+        "result": 7340
+      },
+      {
+        "player": "Francisco",
+        "result": 2280
+      },
+      {
+        "player": "Alex",
+        "result": 660
+      },
+      {
+        "player": "Eli",
+        "result": 590
+      },
+      {
+        "player": "Patrick",
+        "result": -790
+      },
+      {
+        "player": "Jeremy",
+        "result": -1800
+      },
+      {
+        "player": "Dr. K",
+        "result": -2200
+      },
+      {
+        "player": "Nick",
+        "result": -3010
+      },
+      {
+        "player": "The Mouth",
+        "result": -3070
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep14",
+    "date": "Aug 20, 2021",
+    "yTitle": "GAL WINS $175K, GARRETT WINS $97K!! HIGH STAKES POKER w/ Garrett, Andy, Gal & Bill Klein - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=j0V3K35U3Nw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710137200&amp;usg=AOvVaw1aF1lvrC7X2vIXvt7Q6F1I",
+    "game": [
+      {
+        "player": "Gal",
+        "result": 175100
+      },
+      {
+        "player": "Garrett",
+        "result": 96900
+      },
+      {
+        "player": "Jeremy",
+        "result": 39850
+      },
+      {
+        "player": "Andy",
+        "result": 38600
+      },
+      {
+        "player": "Double M",
+        "result": -17150
+      },
+      {
+        "player": "Krish",
+        "result": -150000
+      },
+      {
+        "player": "George (old",
+        "result": -45000
+      },
+      {
+        "player": "Bill Klein",
+        "result": -98650
+      },
+      {
+        "player": "AL",
+        "result": -40000
+      }
+    ],
+    "total": "-350"
+  },
+  {
+    "e": "ep14",
+    "date": "Aug 21, 2021",
+    "yTitle": "JOHNNIE VIBES Plays $10/25 - Special BONUS SATURDAY Game - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Iof4d_bxuoA&t=5354s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710138669&amp;usg=AOvVaw1GQY3eWHLeXX3Cecx2sY2-",
+    "game": [
+      {
+        "player": "Nick",
+        "result": 5435
+      },
+      {
+        "player": "Eli",
+        "result": 5215
+      },
+      {
+        "player": "Patrick",
+        "result": 775
+      },
+      {
+        "player": "Jack",
+        "result": -240
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -375
+      },
+      {
+        "player": "Johnnie Vibe",
+        "result": -750
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -1135
+      },
+      {
+        "player": "RB",
+        "result": -1610
+      },
+      {
+        "player": "Luiz",
+        "result": -7315
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep15",
+    "date": "Aug 23, 2021",
+    "yTitle": "PAUL PIERCE Plays HIGH STAKES POT LIMIT OMAHA - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=EDcHgWcx3cw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710139981&amp;usg=AOvVaw221e8QpvVeqXuTebRunXsk",
+    "game": [
+      {
+        "player": "Craig",
+        "result": 49350
+      },
+      {
+        "player": "Kobi",
+        "result": 47375
+      },
+      {
+        "player": "Aaron",
+        "result": 32475
+      },
+      {
+        "player": "Arman",
+        "result": 13900
+      },
+      {
+        "player": "Matt",
+        "result": 1000
+      },
+      {
+        "player": "Suited Super",
+        "result": -50
+      },
+      {
+        "player": "Alfie",
+        "result": -2425
+      },
+      {
+        "player": "Laker Steve",
+        "result": -6450
+      },
+      {
+        "player": "Hady",
+        "result": -24300
+      },
+      {
+        "player": "Marc",
+        "result": -52525
+      },
+      {
+        "player": "The Truth",
+        "result": -31300
+      },
+      {
+        "player": "Meatball",
+        "result": -26550
+      }
+    ],
+    "total": "500"
+  },
+  {
+    "e": "ep16",
+    "date": "Aug 24, 2021",
+    "yTitle": "MIKE MATUSOW Plays BIG ACTION $5/5 + $50 BB Ante Game!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=epJ-FCmf-CI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710141425&amp;usg=AOvVaw1QO2PJ5CF9DHGpz7epnAKs",
+    "game": [
+      {
+        "player": "Mike Nia",
+        "result": 12025
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 10585
+      },
+      {
+        "player": "Nick",
+        "result": 6750
+      },
+      {
+        "player": "Bear Jew",
+        "result": 5695
+      },
+      {
+        "player": "The Mouth",
+        "result": 3590
+      },
+      {
+        "player": "Eli",
+        "result": 3010
+      },
+      {
+        "player": "Big John",
+        "result": -6115
+      },
+      {
+        "player": "Patrick",
+        "result": -15185
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -20335
+      }
+    ],
+    "total": "20"
+  },
+  {
+    "e": "ep17",
+    "date": "Aug 25, 2021",
+    "yTitle": "5/5/10 NO LIMIT HOLD'EM with Nichoel Jurgens - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=t7j04NSLf9U&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710142876&amp;usg=AOvVaw1hwyptF0gUij6b_bQvqsaI",
+    "game": [
+      {
+        "player": "Rob",
+        "result": 4185
+      },
+      {
+        "player": "Tony",
+        "result": 3570
+      },
+      {
+        "player": "Bear",
+        "result": 1390
+      },
+      {
+        "player": "Joe",
+        "result": 1040
+      },
+      {
+        "player": "Freckles",
+        "result": 1285
+      },
+      {
+        "player": "Italian Mike",
+        "result": 575
+      },
+      {
+        "player": "Aaron",
+        "result": 340
+      },
+      {
+        "player": "Karma",
+        "result": -115
+      },
+      {
+        "player": "Erik",
+        "result": -1565
+      },
+      {
+        "player": "He Hits It",
+        "result": -2355
+      },
+      {
+        "player": "Eider",
+        "result": -2875
+      },
+      {
+        "player": "Adrianne",
+        "result": -1905
+      },
+      {
+        "player": "Skillz",
+        "result": -3000
+      }
+    ],
+    "total": "570"
+  },
+  {
+    "e": "ep18",
+    "date": "Aug 26, 2021",
+    "yTitle": "10/20 NL w/ Luda Chris, Mike Nia & Stanley Tang - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Loo1I4VZpvQ&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710144795&amp;usg=AOvVaw23eTzR-Nm7whyL1i-RCFru",
+    "game": [
+      {
+        "player": "Cowboy John",
+        "result": 15490
+      },
+      {
+        "player": "Josh",
+        "result": 11410
+      },
+      {
+        "player": "Patrick",
+        "result": 10680
+      },
+      {
+        "player": "Mike Nia",
+        "result": 10560
+      },
+      {
+        "player": "Nick",
+        "result": 6320
+      },
+      {
+        "player": "Luda Chris",
+        "result": 3640
+      },
+      {
+        "player": "Stanley",
+        "result": -11000
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -19000
+      },
+      {
+        "player": "Jack",
+        "result": -28100
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep19",
+    "date": "Aug 27, 2021",
+    "yTitle": "Billionaire DoorDash Founder Stanley Tang & WPT Champ Art Papazyan Play HIGH STAKES POKER!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=FNRht40iKjw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710146076&amp;usg=AOvVaw2oEpcE8n45DFfZG9Q_33fH",
+    "game": [
+      {
+        "player": "Versace Marc",
+        "result": 29100
+      },
+      {
+        "player": "Aaron",
+        "result": 28300
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 19100
+      },
+      {
+        "player": "Art",
+        "result": 12675
+      },
+      {
+        "player": "Stanley",
+        "result": 6875
+      },
+      {
+        "player": "Andrew",
+        "result": 1550
+      },
+      {
+        "player": "Nick",
+        "result": -17100
+      },
+      {
+        "player": "Mike Nia",
+        "result": -30500
+      },
+      {
+        "player": "Krish",
+        "result": -49675
+      }
+    ],
+    "total": "325"
+  },
+  {
+    "e": "ep20",
+    "date": "Aug 28, 2021",
+    "yTitle": "5/10 POT LIMIT OMAHA w/ Marina Mendes & Amber's Closet - Commentary by Owais Ahmed - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=YNmLd4UkWJw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710147288&amp;usg=AOvVaw16ZgZddf_0z-cZYff5hSr9",
+    "game": [
+      {
+        "player": "Dylan",
+        "result": 15060
+      },
+      {
+        "player": "Todd",
+        "result": 2850
+      },
+      {
+        "player": "Amber",
+        "result": 2595
+      },
+      {
+        "player": "Jamie",
+        "result": 1315
+      },
+      {
+        "player": "Casey",
+        "result": -585
+      },
+      {
+        "player": "Marina",
+        "result": -1900
+      },
+      {
+        "player": "Al",
+        "result": -2840
+      },
+      {
+        "player": "Paul Malibu",
+        "result": -3000
+      },
+      {
+        "player": "Nick",
+        "result": -3060
+      },
+      {
+        "player": "Shawn",
+        "result": -3730
+      },
+      {
+        "player": "Savage",
+        "result": -6615
+      }
+    ],
+    "total": "90"
+  },
+  {
+    "e": "ep21",
+    "date": "Aug 31, 2021",
+    "yTitle": "HUGE ANTE GAME!!! Gal, Luda Chris, Mike Nia - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=GkvDa2oBgfg&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710148688&amp;usg=AOvVaw0ZS2og9VTTUVnljEcLn79h",
+    "game": [
+      {
+        "player": "Brian",
+        "result": 31350
+      },
+      {
+        "player": "Nick",
+        "result": 21575
+      },
+      {
+        "player": "Bear Jew",
+        "result": 3680
+      },
+      {
+        "player": "Shy",
+        "result": 590
+      },
+      {
+        "player": "Big John",
+        "result": -3120
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -7095
+      },
+      {
+        "player": "Luda Chris",
+        "result": -11370
+      },
+      {
+        "player": "Mike Nia",
+        "result": -13700
+      },
+      {
+        "player": "Gal",
+        "result": -21910
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep22",
+    "date": "Sep 1, 2021",
+    "yTitle": "NORMAN CHAD & DAVID TUCHMAN Commentate on $5/5/10 NL w/ Mariano - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=bGIWJpXWy7c&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710149811&amp;usg=AOvVaw2KlSEuMXK52MpbVkF5Ctjc",
+    "game": [
+      {
+        "player": "Rob",
+        "result": 7520
+      },
+      {
+        "player": "Mariano",
+        "result": 5395
+      },
+      {
+        "player": "Darren",
+        "result": 2560
+      },
+      {
+        "player": "Rocky",
+        "result": 1085
+      },
+      {
+        "player": "Antonious",
+        "result": 775
+      },
+      {
+        "player": "Barry",
+        "result": -480
+      },
+      {
+        "player": "Eric",
+        "result": -1750
+      },
+      {
+        "player": "Cowboy John",
+        "result": -2470
+      },
+      {
+        "player": "Fat Duck",
+        "result": -2490
+      },
+      {
+        "player": "Bear Jew",
+        "result": -3745
+      },
+      {
+        "player": "Bts Nate",
+        "result": -5855
+      }
+    ],
+    "total": "545"
+  },
+  {
+    "e": "ep23",
+    "date": "Sep 2, 2021",
+    "yTitle": "SUITED SUPERMAN & POKER TRAVELER Play $10/20 NL - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=4uDNzyi1gtE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710151371&amp;usg=AOvVaw2drAQUNThMmcjQxFZoGCgd",
+    "game": [
+      {
+        "player": "Poker Travele",
+        "result": 16000
+      },
+      {
+        "player": "Suited Super",
+        "result": 7210
+      },
+      {
+        "player": "Nick",
+        "result": 3640
+      },
+      {
+        "player": "Francisco Th",
+        "result": -400
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -1340
+      },
+      {
+        "player": "Josh",
+        "result": -4910
+      },
+      {
+        "player": "Ronnie",
+        "result": -6290
+      },
+      {
+        "player": "Patrick",
+        "result": -6340
+      },
+      {
+        "player": "Bear Jew",
+        "result": -7570
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep24",
+    "date": "Sep 3, 2021",
+    "yTitle": "GARRETT, ANDY, GAL & OLLIE - HIGH STAKES $50/100/200 - Commentary by Bart Hanson & Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=oBucVdM8Ous&t=24349s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710152493&amp;usg=AOvVaw07mbqE1OzZuCo-xg1MLIen",
+    "game": [
+      {
+        "player": "Garrett",
+        "result": 141550
+      },
+      {
+        "player": "Andy",
+        "result": 64325
+      },
+      {
+        "player": "Jeremy",
+        "result": 18050
+      },
+      {
+        "player": "Gal",
+        "result": 14000
+      },
+      {
+        "player": "RB",
+        "result": 13000
+      },
+      {
+        "player": "Josh",
+        "result": -12000
+      },
+      {
+        "player": "Ollie",
+        "result": -12250
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -22150
+      },
+      {
+        "player": "Krish",
+        "result": -77600
+      },
+      {
+        "player": "George",
+        "result": -71275
+      }
+    ],
+    "total": "450"
+  },
+  {
+    "e": "ep25",
+    "date": "Sep 6, 2021",
+    "yTitle": "HIGH STAKES POKER LABOR DAY SPECIAL - Garrett, Andy, Gal - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=GX0zRGeAdB4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710153870&amp;usg=AOvVaw3BIuyJrTb49ZJlK7n7LfF-",
+    "game": [
+      {
+        "player": "Gal",
+        "result": 45375
+      },
+      {
+        "player": "Andy",
+        "result": 27975
+      },
+      {
+        "player": "Krish",
+        "result": 8050
+      },
+      {
+        "player": "Zeo",
+        "result": 4025
+      },
+      {
+        "player": "Garrett",
+        "result": -4025
+      },
+      {
+        "player": "Andrew",
+        "result": -15000
+      },
+      {
+        "player": "Nick",
+        "result": -16850
+      },
+      {
+        "player": "Patrick",
+        "result": -18075
+      },
+      {
+        "player": "Julie",
+        "result": -31475
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep26",
+    "date": "Sep 7, 2021",
+    "yTitle": "Pablo & Luda Chris Play $5/5 + $50 BB Ante Game - Commentary by DGAF & Marle - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=kH955F3yvl4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710155123&amp;usg=AOvVaw3FzHAjyFjvedMRTZbMLXgh",
+    "game": [
+      {
+        "player": "Mayhem",
+        "result": 28045
+      },
+      {
+        "player": "Nick",
+        "result": 16470
+      },
+      {
+        "player": "Cowboy John",
+        "result": 14360
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 240
+      },
+      {
+        "player": "Luda Chris",
+        "result": -625
+      },
+      {
+        "player": "Pablo",
+        "result": -1680
+      },
+      {
+        "player": "Big John",
+        "result": -12695
+      },
+      {
+        "player": "Brian",
+        "result": -20400
+      },
+      {
+        "player": "Sammy",
+        "result": -23715
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep27",
+    "date": "Sep 8, 2021",
+    "yTitle": "MARLE Plays $5/5/10 No Limit Hold'em - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=XNodaImpSKQ&t=13622s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710156353&amp;usg=AOvVaw2TG81EwO_6uai-iMjgaJqY",
+    "game": [
+      {
+        "player": "Yosh",
+        "result": 2050
+      },
+      {
+        "player": "Joe",
+        "result": 1870
+      },
+      {
+        "player": "Fat Sweater",
+        "result": 1685
+      },
+      {
+        "player": "Richard",
+        "result": 1340
+      },
+      {
+        "player": "A.L.P.",
+        "result": 955
+      },
+      {
+        "player": "Darren",
+        "result": -525
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -720
+      },
+      {
+        "player": "Marle",
+        "result": -2460
+      },
+      {
+        "player": "R88ster",
+        "result": -4195
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep28",
+    "date": "Sep 9, 2021",
+    "yTitle": "Norman Chad & Lon McEachern Commentate on $10/20 No Limit Hold'em - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=b4lo4G4lj5s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710157517&amp;usg=AOvVaw3GiJqVl2d8cmCLPQEx2vn3",
+    "game": [
+      {
+        "player": "Armenian Mik",
+        "result": 19150
+      },
+      {
+        "player": "Ronnie",
+        "result": 17320
+      },
+      {
+        "player": "Marc",
+        "result": 11070
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 6180
+      },
+      {
+        "player": "Patrick",
+        "result": -3080
+      },
+      {
+        "player": "Nick",
+        "result": -8250
+      },
+      {
+        "player": "Misha",
+        "result": -9610
+      },
+      {
+        "player": "Eli",
+        "result": -15520
+      },
+      {
+        "player": "Cowboy John",
+        "result": -17260
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep29",
+    "date": "Sep 10, 2021",
+    "yTitle": "GARRETT WINS $113K, REZA WINS $65K!! HIGH STAKES POKER w/ Garrett Adelstein & Gal - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=fNxFQP5TluY&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710158695&amp;usg=AOvVaw2yvbphI-b0AJWJmk7kD_n3",
+    "game": [
+      {
+        "player": "Garrett",
+        "result": 112850
+      },
+      {
+        "player": "Reza",
+        "result": 64725
+      },
+      {
+        "player": "RB",
+        "result": 34150
+      },
+      {
+        "player": "Nick",
+        "result": 33450
+      },
+      {
+        "player": "George",
+        "result": -1125
+      },
+      {
+        "player": "Barry",
+        "result": -16375
+      },
+      {
+        "player": "David",
+        "result": -25450
+      },
+      {
+        "player": "Julie",
+        "result": -51575
+      },
+      {
+        "player": "Gal",
+        "result": -61725
+      },
+      {
+        "player": "Krish",
+        "result": -88925
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep30",
+    "date": "Sep 13, 2021",
+    "yTitle": "GILBERT ARENAS Plays Poker!!! Pot Limit Omaha!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Zy58B4zGgEs&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710159873&amp;usg=AOvVaw2vLUPhbmHXW6aQ7CdbfUuj",
+    "game": [
+      {
+        "player": "Gilbert",
+        "result": 5725
+      },
+      {
+        "player": "Peddy",
+        "result": 4535
+      },
+      {
+        "player": "Gary",
+        "result": 1900
+      },
+      {
+        "player": "Buddy",
+        "result": 1725
+      },
+      {
+        "player": "Denon",
+        "result": 1075
+      },
+      {
+        "player": "Shawn",
+        "result": 165
+      },
+      {
+        "player": "Tony Merced",
+        "result": -605
+      },
+      {
+        "player": "Erik",
+        "result": -1035
+      },
+      {
+        "player": "Eric Shane",
+        "result": -1100
+      },
+      {
+        "player": "Tony",
+        "result": -1300
+      },
+      {
+        "player": "Arthur",
+        "result": -1080
+      },
+      {
+        "player": "Richie",
+        "result": -2000
+      },
+      {
+        "player": "Nick",
+        "result": -3000
+      },
+      {
+        "player": "Hollywood",
+        "result": -5000
+      }
+    ],
+    "total": "5"
+  },
+  {
+    "e": "ep31",
+    "date": "Sep 14, 2021",
+    "yTitle": "ACTION ANTE GAME w/ Luda Chris, Israeli Ron & Bear Jew - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=jHzYRMdWAI4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710161384&amp;usg=AOvVaw0inbvukiG5poVaYnijGswB",
+    "game": [
+      {
+        "player": "Luda Chris",
+        "result": 7020
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 5080
+      },
+      {
+        "player": "Big John",
+        "result": 4600
+      },
+      {
+        "player": "Bear Jew",
+        "result": 3945
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 1845
+      },
+      {
+        "player": "Mayhem",
+        "result": -1000
+      },
+      {
+        "player": "Sammy",
+        "result": -1185
+      },
+      {
+        "player": "Johnny",
+        "result": -7340
+      },
+      {
+        "player": "Nick",
+        "result": -12965
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep32",
+    "date": "Sep 15, 2021",
+    "yTitle": "RAMPAGE & MARIANO Play $10/20 NL!!! RAMPAGE Wins $22,000 Pot!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=q8yyWnZUFmI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710162440&amp;usg=AOvVaw3PhUSfSzt0az1q3OkN42wS",
+    "game": [
+      {
+        "player": "Rampage",
+        "result": 14230
+      },
+      {
+        "player": "Zeo",
+        "result": 9710
+      },
+      {
+        "player": "Cowboy John",
+        "result": 8190
+      },
+      {
+        "player": "Holo",
+        "result": 2900
+      },
+      {
+        "player": "Ronnie",
+        "result": -2050
+      },
+      {
+        "player": "Landen",
+        "result": -3960
+      },
+      {
+        "player": "Mariano",
+        "result": -5160
+      },
+      {
+        "player": "Dr. AC",
+        "result": -8210
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -15650
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep33",
+    "date": "Sep 16, 2021",
+    "yTitle": "RAMPAGE, MARIANO & RANDALL EMMETT Play the Ante Game - RAMPAGE & MARIANO Lose $50,000 Combined!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=IF33RrqWhos&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710163400&amp;usg=AOvVaw2xDVgYbOMtqVxyGgpBCVjE",
+    "game": [
+      {
+        "player": "Nick",
+        "result": 36730
+      },
+      {
+        "player": "Patrick",
+        "result": 34230
+      },
+      {
+        "player": "Ronnie",
+        "result": 13215
+      },
+      {
+        "player": "Cowboy John",
+        "result": 10165
+      },
+      {
+        "player": "Reza",
+        "result": -2045
+      },
+      {
+        "player": "Zeo",
+        "result": -4175
+      },
+      {
+        "player": "Randall",
+        "result": -16600
+      },
+      {
+        "player": "Eli",
+        "result": -21370
+      },
+      {
+        "player": "Rampage",
+        "result": -21770
+      },
+      {
+        "player": "Mariano",
+        "result": -28250
+      }
+    ],
+    "total": "130"
+  },
+  {
+    "e": "ep34",
+    "date": "Sep 17, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER w/ Garrett Adelstein, Andy, Gal, Reza & George - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=ZskFqtPHQNE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710164540&amp;usg=AOvVaw3yRiBECWKs16pfDBVff96k",
+    "game": [
+      {
+        "player": "Victor",
+        "result": 102200
+      },
+      {
+        "player": "Reza",
+        "result": 60000
+      },
+      {
+        "player": "Versace Marc",
+        "result": 21800
+      },
+      {
+        "player": "Garrett",
+        "result": 19350
+      },
+      {
+        "player": "Nick",
+        "result": -225
+      },
+      {
+        "player": "Andy",
+        "result": -64825
+      },
+      {
+        "player": "Gal",
+        "result": -68750
+      },
+      {
+        "player": "George",
+        "result": -70000
+      }
+    ],
+    "total": "-450"
+  },
+  {
+    "e": "ep35",
+    "date": "Sep 20, 2021",
+    "yTitle": "BIG MONEY WEEK! $25/50 NL w/ Gal, Danielle Andersen, Reza, Julie Yorn - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=2HgGOm7qxkU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710165470&amp;usg=AOvVaw18EMPk-yN4864SRwREHcSz",
+    "game": [
+      {
+        "player": "Markus",
+        "result": 109850
+      },
+      {
+        "player": "Gal",
+        "result": 75750
+      },
+      {
+        "player": "Jason",
+        "result": 12375
+      },
+      {
+        "player": "Andy",
+        "result": 3575
+      },
+      {
+        "player": "Danielle",
+        "result": -17025
+      },
+      {
+        "player": "Julie",
+        "result": -21300
+      },
+      {
+        "player": "Nick",
+        "result": -30100
+      },
+      {
+        "player": "Joel",
+        "result": -52850
+      },
+      {
+        "player": "Reza",
+        "result": -80275
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep36",
+    "date": "Sep 21, 2021",
+    "yTitle": "BIG MONEY WEEK! Ante Game w/ Luda Chris, Nick Vertucci - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=8l6HYL5a4RE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710166426&amp;usg=AOvVaw2Iii-h4QyHXOf31o5wEuYH",
+    "game": [
+      {
+        "player": "Patrick",
+        "result": 35205
+      },
+      {
+        "player": "Nick",
+        "result": 24595
+      },
+      {
+        "player": "Shy",
+        "result": 13520
+      },
+      {
+        "player": "Big John",
+        "result": 8395
+      },
+      {
+        "player": "Ronnie",
+        "result": 2880
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 1060
+      },
+      {
+        "player": "Mayhem",
+        "result": -13930
+      },
+      {
+        "player": "Cowboy John",
+        "result": -17585
+      },
+      {
+        "player": "Luda Chris",
+        "result": -54140
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep37",
+    "date": "Sep 22, 2021",
+    "yTitle": "10/20 NL w/ Francisco, Armenian Mike & Marc Goone - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=ZxfspjoGreU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710167403&amp;usg=AOvVaw01DPmJGlyJZTKAi_1WhP3j",
+    "game": [
+      {
+        "player": "Ben",
+        "result": 13850
+      },
+      {
+        "player": "Ronie",
+        "result": 10800
+      },
+      {
+        "player": "LG",
+        "result": 8620
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 5070
+      },
+      {
+        "player": "Cowboy John",
+        "result": 3685
+      },
+      {
+        "player": "Fransico The",
+        "result": -1815
+      },
+      {
+        "player": "Nick",
+        "result": -7020
+      },
+      {
+        "player": "Dr, Eli",
+        "result": -9240
+      },
+      {
+        "player": "Richard",
+        "result": -11250
+      },
+      {
+        "player": "Marc",
+        "result": -12700
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep38",
+    "date": "Sep 23, 2021",
+    "yTitle": "BIG MONEY WEEK! $25/50/100 NL w/ Gal, Danielle Andersen, Reza - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Q757_tKjiiE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710168514&amp;usg=AOvVaw3WgV2ESEusaCEwt5s_UJN0",
+    "game": [
+      {
+        "player": "Gal",
+        "result": 33150
+      },
+      {
+        "player": "Danielle",
+        "result": 30950
+      },
+      {
+        "player": "Zeo",
+        "result": 20150
+      },
+      {
+        "player": "Bear Jew",
+        "result": 17075
+      },
+      {
+        "player": "Nick V",
+        "result": 13025
+      },
+      {
+        "player": "Reza",
+        "result": 6000
+      },
+      {
+        "player": "Nick Dalla",
+        "result": -425
+      },
+      {
+        "player": "Patrick",
+        "result": -12900
+      },
+      {
+        "player": "Sunny",
+        "result": -69475
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -37550
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep39",
+    "date": "Sep 24, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER w/ Garrett Adelstein, Gal, Andy!!! Commentary by Bart Hanson - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=9rRyYo1crfc&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710169661&amp;usg=AOvVaw1Y9qBRp5nT-AycFfwvBsbu",
+    "game": [
+      {
+        "player": "Gal",
+        "result": 136800
+      },
+      {
+        "player": "Andy",
+        "result": 53550
+      },
+      {
+        "player": "Sunny",
+        "result": 41550
+      },
+      {
+        "player": "Garrett",
+        "result": 37200
+      },
+      {
+        "player": "Julie",
+        "result": 23600
+      },
+      {
+        "player": "DC Lawyer",
+        "result": -13400
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -10850
+      },
+      {
+        "player": "RB",
+        "result": -109100
+      },
+      {
+        "player": "Krish",
+        "result": -160000
+      }
+    ],
+    "total": "-650"
+  },
+  {
+    "e": "ep40",
+    "date": "Sep 27, 2021",
+    "yTitle": "POT LIMIT OMAHA!! $5/10/20 PLO w/ Denis - Commentary by Cosmo - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=LFk03x2bDro&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710171659&amp;usg=AOvVaw1EqvWyaCfazNWjK97fXLMl",
+    "game": [
+      {
+        "player": "Joe",
+        "result": 6285
+      },
+      {
+        "player": "YC",
+        "result": 5225
+      },
+      {
+        "player": "Jerry",
+        "result": 4850
+      },
+      {
+        "player": "Derek",
+        "result": 4400
+      },
+      {
+        "player": "Ak",
+        "result": 3270
+      },
+      {
+        "player": "Krysty",
+        "result": 2155
+      },
+      {
+        "player": "Eugene",
+        "result": -4520
+      },
+      {
+        "player": "Denis",
+        "result": -4060
+      },
+      {
+        "player": "Erich",
+        "result": -4390
+      },
+      {
+        "player": "Nick",
+        "result": -5760
+      },
+      {
+        "player": "Rich",
+        "result": -7300
+      }
+    ],
+    "total": "155"
+  },
+  {
+    "e": "ep41",
+    "date": "Sep 28, 2021",
+    "yTitle": "REZA, DR. ELI & LUDA CHRIS Play WILD $25/25 NL!! Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=nIwMi5Wop54&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710173572&amp;usg=AOvVaw33-Mmqc7u6uVR174k7VU5N",
+    "game": [
+      {
+        "player": "Dr. Eli",
+        "result": 50100
+      },
+      {
+        "player": "Nick",
+        "result": 42500
+      },
+      {
+        "player": "Reza",
+        "result": -1725
+      },
+      {
+        "player": "Ronnie",
+        "result": -5150
+      },
+      {
+        "player": "Brian",
+        "result": -6625
+      },
+      {
+        "player": "Big John",
+        "result": -7725
+      },
+      {
+        "player": "Nick Lucas",
+        "result": -10000
+      },
+      {
+        "player": "Luda Chris",
+        "result": -12400
+      },
+      {
+        "player": "Mayhem",
+        "result": -19525
+      },
+      {
+        "player": "Eli",
+        "result": -29475
+      }
+    ],
+    "total": "-25"
+  },
+  {
+    "e": "ep42",
+    "date": "Sep 29, 2021",
+    "yTitle": "Richard Plays SUPER CRAZY $5/5/10 NL!!! Commentary by RaverPoker - Sponsored by Decentral.Games - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=lJlb1_aLi7Q&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710175375&amp;usg=AOvVaw06V2Za2AFSCgW0He5UjXPR",
+    "game": [
+      {
+        "player": "Sunset",
+        "result": 4380
+      },
+      {
+        "player": "Felipe",
+        "result": 3180
+      },
+      {
+        "player": "Matt",
+        "result": 3175
+      },
+      {
+        "player": "D'mann",
+        "result": 2330
+      },
+      {
+        "player": "Kim",
+        "result": -730
+      },
+      {
+        "player": "D Sopes",
+        "result": -975
+      },
+      {
+        "player": "Michael",
+        "result": -1140
+      },
+      {
+        "player": "Mac",
+        "result": -1225
+      },
+      {
+        "player": "Richard",
+        "result": -9110
+      }
+    ],
+    "total": "-115"
+  },
+  {
+    "e": "ep43",
+    "date": "Oct 30, 2021",
+    "yTitle": "Reza, Israeli Ron & Marc Goone Play SICK ACTION $25/25 NL - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=wCPMB4iXgw0&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710176957&amp;usg=AOvVaw0jq8FknuNSPzahvQHU0pGB",
+    "game": [
+      {
+        "player": "Dr. Eli",
+        "result": 41700
+      },
+      {
+        "player": "LG",
+        "result": 32425
+      },
+      {
+        "player": "Patrick",
+        "result": 24005
+      },
+      {
+        "player": "Nick",
+        "result": 17175
+      },
+      {
+        "player": "Bear Jew",
+        "result": 9800
+      },
+      {
+        "player": "Marc",
+        "result": 3250
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -6070
+      },
+      {
+        "player": "Franciso",
+        "result": -24650
+      },
+      {
+        "player": "Reza",
+        "result": -97635
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep44",
+    "date": "Oct 1, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER!!! REZA, GAL, ANDY & DR. ELI!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=JAsKKcO_BZk&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710178934&amp;usg=AOvVaw0AQElOuVqrobY_QtSZ8i0z",
+    "game": [
+      {
+        "player": "Dr. Eli",
+        "result": 119100
+      },
+      {
+        "player": "Victor",
+        "result": 65950
+      },
+      {
+        "player": "Nick",
+        "result": 65950
+      },
+      {
+        "player": "Jeremy",
+        "result": 42750
+      },
+      {
+        "player": "Julie",
+        "result": 1900
+      },
+      {
+        "player": "Reza",
+        "result": -87250
+      },
+      {
+        "player": "Gal",
+        "result": -91850
+      },
+      {
+        "player": "Andy",
+        "result": -116550
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep45",
+    "date": "Oct 4, 2021",
+    "yTitle": "25/25 No Limit Hold'em w/ Israeli Ron, Sammy, Armenian Mike, Big John - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=LVX8bwXmH_c&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710180349&amp;usg=AOvVaw3gm_yZXFdeLNsfbQtzxmIQ",
+    "game": [
+      {
+        "player": "Sammy",
+        "result": 15450
+      },
+      {
+        "player": "Big John",
+        "result": 9800
+      },
+      {
+        "player": "Jeremy",
+        "result": 9800
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 2650
+      },
+      {
+        "player": "Brian",
+        "result": 2525
+      },
+      {
+        "player": "Patrick",
+        "result": -800
+      },
+      {
+        "player": "Cowboy John",
+        "result": -1725
+      },
+      {
+        "player": "Nick",
+        "result": -16700
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -21000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep46",
+    "date": "Oct 5, 2021",
+    "yTitle": "REZA!!! HUGE ACTION $25/25 NL w/ Reza, Luda Chris, Nick Vertucci - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=z2_c7DB4mPw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710182053&amp;usg=AOvVaw29XFirPf9_4c5urZXnZDu7",
+    "game": [
+      {
+        "player": "Mayhem",
+        "result": 40500
+      },
+      {
+        "player": "Brian",
+        "result": 22875
+      },
+      {
+        "player": "Bear Jew",
+        "result": 5450
+      },
+      {
+        "player": "Eli",
+        "result": 5450
+      },
+      {
+        "player": "Luda Chris",
+        "result": 525
+      },
+      {
+        "player": "Johnny",
+        "result": -6150
+      },
+      {
+        "player": "Big John",
+        "result": -14350
+      },
+      {
+        "player": "Nick",
+        "result": -15300
+      },
+      {
+        "player": "Reza",
+        "result": -39000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep47",
+    "date": "Oct 6, 2021",
+    "yTitle": "DR. ELI!!! FUN $25/25 NL w/ Israeli Ron, Jeremy, LG & Dr. Eli - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=kgqEDR535IU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710184073&amp;usg=AOvVaw1o9TyLStHe6TX47RuVPg63",
+    "game": [
+      {
+        "player": "Nick Lucas",
+        "result": 58350
+      },
+      {
+        "player": "Patrick",
+        "result": 49350
+      },
+      {
+        "player": "Dr. Eli",
+        "result": 9575
+      },
+      {
+        "player": "Ronnie",
+        "result": -2625
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -6000
+      },
+      {
+        "player": "Nick V",
+        "result": -12900
+      },
+      {
+        "player": "Harlan",
+        "result": -9625
+      },
+      {
+        "player": "Nick Lucas",
+        "result": -9775
+      },
+      {
+        "player": "Luda Chris",
+        "result": -34775
+      },
+      {
+        "player": "Jeremy",
+        "result": -40000
+      }
+    ],
+    "total": 1575
+  },
+  {
+    "e": "ep48",
+    "date": "Oct 7, 2021",
+    "yTitle": "OVER $1 MILLION ON THE TABLE!!! SUPER HIGH STAKES POKER!!! $100/200!!! Garrett, Reza, Andy, Krish - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=2tcNPjYiHvY&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710186726&amp;usg=AOvVaw03Ec0vB0LMg41AQc6KGNfR",
+    "game": [
+      {
+        "player": "Nick",
+        "result": 79050
+      },
+      {
+        "player": "Krish",
+        "result": 77500
+      },
+      {
+        "player": "Garrett",
+        "result": 38100
+      },
+      {
+        "player": "George",
+        "result": 21800
+      },
+      {
+        "player": "Julie",
+        "result": 15200
+      },
+      {
+        "player": "Shane",
+        "result": 10200
+      },
+      {
+        "player": "Andy",
+        "result": 8900
+      },
+      {
+        "player": "Jarrett",
+        "result": -70500
+      },
+      {
+        "player": "Reza",
+        "result": -180250
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep49",
+    "date": "Oct 8, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER!!! $100/200!! Garrett, Reza, Andy & DoorDash Co-Founder Stanley Tang - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=BhKBhE2ibS4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710188544&amp;usg=AOvVaw2uXZpTNkz65f23zlTm5OUK",
+    "game": [
+      {
+        "player": "Andy",
+        "result": 122200
+      },
+      {
+        "player": "Eshaan",
+        "result": 89000
+      },
+      {
+        "player": "Stanley",
+        "result": 62000
+      },
+      {
+        "player": "David",
+        "result": -6300
+      },
+      {
+        "player": "Shane",
+        "result": -41400
+      },
+      {
+        "player": "Reza",
+        "result": -52300
+      },
+      {
+        "player": "Garrett",
+        "result": -48000
+      },
+      {
+        "player": "George",
+        "result": -120000
+      }
+    ],
+    "total": 5200
+  },
+  {
+    "e": "ep50",
+    "date": "Oct 11, 2021",
+    "yTitle": "REZA!!! $25/25/50 NL w/ Reza, Art Papazyan, Nick Vertucci, Ronnie - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Zjw201C38es&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710190658&amp;usg=AOvVaw29HABbCAD566-3WiudmXnS",
+    "game": [
+      {
+        "player": "Francisco",
+        "result": 69000
+      },
+      {
+        "player": "Art",
+        "result": 29350
+      },
+      {
+        "player": "Cowboy John",
+        "result": 2825
+      },
+      {
+        "player": "Victor",
+        "result": -2700
+      },
+      {
+        "player": "Zeo",
+        "result": -2750
+      },
+      {
+        "player": "Ronnie",
+        "result": -6775
+      },
+      {
+        "player": "Drew",
+        "result": -7775
+      },
+      {
+        "player": "Nick",
+        "result": -20175
+      },
+      {
+        "player": "Reza",
+        "result": -60625
+      }
+    ],
+    "total": "375"
+  },
+  {
+    "e": "ep51",
+    "date": "Oct 12, 2021",
+    "yTitle": "REZA BUYS IN $100,000!! DR. ELI!! LUDA CHRIS!! $25/25/50 No Limit Hold'em - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=PKuaFqnb8HE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710192668&amp;usg=AOvVaw0O5MM06i33V50X_X9-8mvM",
+    "game": [
+      {
+        "player": "Luda Chris",
+        "result": 68875
+      },
+      {
+        "player": "Big John",
+        "result": 40975
+      },
+      {
+        "player": "Nick",
+        "result": 7900
+      },
+      {
+        "player": "Bear Jew",
+        "result": 3475
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -225
+      },
+      {
+        "player": "Brian",
+        "result": -8400
+      },
+      {
+        "player": "Sammy",
+        "result": -8750
+      },
+      {
+        "player": "Orignal Eli",
+        "result": -20150
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -37125
+      },
+      {
+        "player": "Reza",
+        "result": -45525
+      }
+    ],
+    "total": 1050
+  },
+  {
+    "e": "ep52",
+    "date": "Oct 13, 2021",
+    "yTitle": "10/20 No Limit Hold'em w/ Suited Superman, Cowboy John & Josh Macciello - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=bOHskO3ntXE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710194776&amp;usg=AOvVaw1ekFhpCVAfMa3cCKihZ6b7",
+    "game": [
+      {
+        "player": "Vegas Vinh",
+        "result": 11650
+      },
+      {
+        "player": "DJ Melo D",
+        "result": 5330
+      },
+      {
+        "player": "Josh",
+        "result": 1820
+      },
+      {
+        "player": "Cowboy John",
+        "result": 580
+      },
+      {
+        "player": "Point",
+        "result": -100
+      },
+      {
+        "player": "Suited Super",
+        "result": -720
+      },
+      {
+        "player": "Victor",
+        "result": -2830
+      },
+      {
+        "player": "VC Sam",
+        "result": -8800
+      },
+      {
+        "player": "Patrick",
+        "result": -7430
+      }
+    ],
+    "total": "-500"
+  },
+  {
+    "e": "ep53",
+    "date": "Oct 14, 2021",
+    "yTitle": "BIG ACTION ANTE GAME!!! Luda Chris, Ronnie, Mike Nia, Nick Vertucci - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=FNcCBh4dYVs&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710196682&amp;usg=AOvVaw14MWtTFMLjGyW2I2T_sFH8",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": 14885
+      },
+      {
+        "player": "Bear Jew",
+        "result": 9835
+      },
+      {
+        "player": "Nick",
+        "result": 9425
+      },
+      {
+        "player": "Luda Chris",
+        "result": 4200
+      },
+      {
+        "player": "Patrick",
+        "result": 300
+      },
+      {
+        "player": "Mike",
+        "result": -5565
+      },
+      {
+        "player": "Jerry",
+        "result": -7540
+      },
+      {
+        "player": "Josh",
+        "result": -7695
+      },
+      {
+        "player": "Original Eli",
+        "result": -17845
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep54",
+    "date": "Oct 15, 2021",
+    "yTitle": "REZA!!! HIGH STAKES POKER!!! Reza, YoH ViraL, Krish, Julie, Brian Kim - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=hoakGENoCo4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710198429&amp;usg=AOvVaw3hZBUeMjQTIn5lo2bcVPEW",
+    "game": [
+      {
+        "player": "Krish",
+        "result": 58350
+      },
+      {
+        "player": "Versace Marc",
+        "result": 28000
+      },
+      {
+        "player": "Brian",
+        "result": 12375
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 12125
+      },
+      {
+        "player": "Nick",
+        "result": -1050
+      },
+      {
+        "player": "Julie",
+        "result": -2200
+      },
+      {
+        "player": "Yoh Viral",
+        "result": -20700
+      },
+      {
+        "player": "Victor",
+        "result": -24250
+      },
+      {
+        "player": "Reza",
+        "result": -62025
+      }
+    ],
+    "total": "625"
+  },
+  {
+    "e": "ep55",
+    "date": "Oct 18, 2021",
+    "yTitle": "25/25/50 No Limit Hold'em!!! Israeli Ron, Sammy, Jack - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=cQHkNEdehRU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710200058&amp;usg=AOvVaw3AnWHcugShn6yVnUCmRll_",
+    "game": [
+      {
+        "player": "Jeremy",
+        "result": 20375
+      },
+      {
+        "player": "Nick Lucas",
+        "result": 13925
+      },
+      {
+        "player": "Big John",
+        "result": 9550
+      },
+      {
+        "player": "Jack",
+        "result": 750
+      },
+      {
+        "player": "Patrick",
+        "result": -3225
+      },
+      {
+        "player": "Zeo",
+        "result": -7675
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -8875
+      },
+      {
+        "player": "Nick V",
+        "result": -11050
+      },
+      {
+        "player": "Sammy",
+        "result": -13900
+      }
+    ],
+    "total": "-125"
+  },
+  {
+    "e": "ep56",
+    "date": "Oct 19, 2021",
+    "yTitle": "WILD ANTE GAME!! Jerry, Dr. Eli, Luda Chris - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=lwRfdHn21Hg&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710201760&amp;usg=AOvVaw2_r0JlqO909POkB3WGGgcn",
+    "game": [
+      {
+        "player": "Patrick",
+        "result": 46830
+      },
+      {
+        "player": "Mayhem",
+        "result": 37730
+      },
+      {
+        "player": "Luda Chris",
+        "result": 24295
+      },
+      {
+        "player": "Big John",
+        "result": 17615
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -19080
+      },
+      {
+        "player": "Jerry",
+        "result": -22675
+      },
+      {
+        "player": "Original Eli",
+        "result": -23000
+      },
+      {
+        "player": "Brian",
+        "result": -25500
+      },
+      {
+        "player": "Nick",
+        "result": -36215
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep57",
+    "date": "Oct 20, 2021",
+    "yTitle": "RICHARD Plays $10/20 No Limit Hold'em w/ Ronnie, Cowboy John & Rooster!! Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Hlg0MXemFBw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710203663&amp;usg=AOvVaw15SrNWk4VGQcKkbiBUljGD",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": 9280
+      },
+      {
+        "player": "Tony",
+        "result": 9210
+      },
+      {
+        "player": "R88ster",
+        "result": 6520
+      },
+      {
+        "player": "Darren",
+        "result": 3270
+      },
+      {
+        "player": "Cowboy John",
+        "result": 2070
+      },
+      {
+        "player": "Leo",
+        "result": 10
+      },
+      {
+        "player": "Point",
+        "result": -5080
+      },
+      {
+        "player": "Bojidar",
+        "result": -4000
+      },
+      {
+        "player": "KBG",
+        "result": -10000
+      },
+      {
+        "player": "Richard",
+        "result": -11280
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep58",
+    "date": "Oct 21, 2021",
+    "yTitle": "Dr. Eli, Luda Chris, Nick Vertucci & Nick Lucas Play $5/5/50 Ante Game - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=iY2mKhzXkDI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710205731&amp;usg=AOvVaw2d_PRYUIGpCUNiqtmzlVy6",
+    "game": [
+      {
+        "player": "Jack",
+        "result": 25585
+      },
+      {
+        "player": "Ronnie",
+        "result": 25205
+      },
+      {
+        "player": "Nick V",
+        "result": 21475
+      },
+      {
+        "player": "RB",
+        "result": 13985
+      },
+      {
+        "player": "Josh",
+        "result": 12940
+      },
+      {
+        "player": "Nick Lucas",
+        "result": 7345
+      },
+      {
+        "player": "Luda Chris",
+        "result": -1905
+      },
+      {
+        "player": "Cowboy John",
+        "result": -34700
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -69240
+      }
+    ],
+    "total": "690"
+  },
+  {
+    "e": "ep59",
+    "date": "Oct 22, 2021",
+    "yTitle": "PHIL IVEY!! GARRETT!! MIKKI!! SUPER HIGH STAKES $200/400!!! $100K Minimum Buyin!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=PT8RaCKv8EU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710207402&amp;usg=AOvVaw0KePGyygRTnH1gg_723H8w",
+    "game": [
+      {
+        "player": "Matt",
+        "result": 262000
+      },
+      {
+        "player": "Krish",
+        "result": 83600
+      },
+      {
+        "player": "Garrett",
+        "result": 30300
+      },
+      {
+        "player": "Mikki",
+        "result": 7900
+      },
+      {
+        "player": "Dylan",
+        "result": -31600
+      },
+      {
+        "player": "Gal",
+        "result": -84400
+      },
+      {
+        "player": "Lucky",
+        "result": -120000
+      },
+      {
+        "player": "Phil",
+        "result": -147000
+      }
+    ],
+    "total": "800"
+  },
+  {
+    "e": "ep 60",
+    "date": "Oct 23, 2021",
+    "yTitle": "PHIL IVEY!! TOM DWAN!! GARRETT ADELSTEIN!! SUPER HIGH STAKES POKER!! $200/400!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=bG7K_zq0MoQ&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710208659&amp;usg=AOvVaw2bceopbMRn0uFMcyjmCunM",
+    "game": [
+      {
+        "player": "Tom Dwan",
+        "result": 274000
+      },
+      {
+        "player": "Lucky",
+        "result": 256000
+      },
+      {
+        "player": "Matt Berkey",
+        "result": 139000
+      },
+      {
+        "player": "Reza",
+        "result": 80200
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 1100
+      },
+      {
+        "player": "Phil Ivey",
+        "result": 1000
+      },
+      {
+        "player": "Garrett Aldels",
+        "result": -197000
+      },
+      {
+        "player": "Dylan",
+        "result": -314000
+      },
+      {
+        "player": "Krish",
+        "result": -200000
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -40300
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep61",
+    "date": "Oct 25, 2021",
+    "yTitle": "DGAF WEEK!! $10/20 No Limit Hold'em w/ Nick Vertucci, Ronnie, Josh Macciello - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=g1xrW6X9BOU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710210461&amp;usg=AOvVaw3otEj4vJYBwmkf1hyh-n2j",
+    "game": [
+      {
+        "player": "Victor",
+        "result": 19920
+      },
+      {
+        "player": "Josh",
+        "result": 10670
+      },
+      {
+        "player": "Skillsrocks",
+        "result": 9040
+      },
+      {
+        "player": "DK",
+        "result": 7850
+      },
+      {
+        "player": "Henry",
+        "result": -4370
+      },
+      {
+        "player": "Barry",
+        "result": -6530
+      },
+      {
+        "player": "Nick",
+        "result": -10270
+      },
+      {
+        "player": "Ronnie",
+        "result": -12410
+      },
+      {
+        "player": "Hrach",
+        "result": -13900
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep62",
+    "date": "Oct 26, 2021",
+    "yTitle": "Jerry, Luda Chris, Nick Vertucci & Israeli Ron Play the Ante Game - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=j8M1HbnCQbc&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710211667&amp;usg=AOvVaw2SW-FMOeHcQP71eDLgTpyF",
+    "game": [
+      {
+        "player": "Brian",
+        "result": 20570
+      },
+      {
+        "player": "Luda Chris",
+        "result": 13315
+      },
+      {
+        "player": "Patrick",
+        "result": 3895
+      },
+      {
+        "player": "Bear Jew",
+        "result": 3675
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 80
+      },
+      {
+        "player": "Jerry",
+        "result": -3070
+      },
+      {
+        "player": "Nick",
+        "result": -6130
+      },
+      {
+        "player": "Big John",
+        "result": -9335
+      },
+      {
+        "player": "Eli",
+        "result": -23000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep63",
+    "date": "Oct 27, 2021",
+    "yTitle": "Courtney, Mike Nia & Denis Play $5/5/10 No Limit Hold'em - Commentary by DGAF & RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=LkZr8vkqOOI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710212791&amp;usg=AOvVaw3CQFX2R2tYkT8VZ3z3a1Qo",
+    "game": [
+      {
+        "player": "OG Mike",
+        "result": 2564
+      },
+      {
+        "player": "Max",
+        "result": 2270
+      },
+      {
+        "player": "Denis",
+        "result": 1590
+      },
+      {
+        "player": "Doug",
+        "result": 1475
+      },
+      {
+        "player": "Darren",
+        "result": 1315
+      },
+      {
+        "player": "Derek",
+        "result": 660
+      },
+      {
+        "player": "Reza #2",
+        "result": -390
+      },
+      {
+        "player": "Leo",
+        "result": -2145
+      },
+      {
+        "player": "Mike Nia",
+        "result": -4620
+      },
+      {
+        "player": "Courtney",
+        "result": -2719
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep64",
+    "date": "Oct 28, 2021",
+    "yTitle": "DGAF Commentates the $5/5/50 Ante Game w/ Nick Lucas, Bear Jew, Nick Vertucci, Ronnie, Josh & Jeremy - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=eRoHYOIxOX0&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710214212&amp;usg=AOvVaw35kVIRBUD5YSS17DdrgTSW",
+    "game": [
+      {
+        "player": "Jeremy",
+        "result": 16020
+      },
+      {
+        "player": "Ronnie",
+        "result": 8780
+      },
+      {
+        "player": "Josh",
+        "result": 5285
+      },
+      {
+        "player": "Bear Jew",
+        "result": 980
+      },
+      {
+        "player": "Henry",
+        "result": -2970
+      },
+      {
+        "player": "RB",
+        "result": -3315
+      },
+      {
+        "player": "Nick V",
+        "result": -5905
+      },
+      {
+        "player": "Nick Lucas",
+        "result": -18875
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep65",
+    "date": "Oct 29, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER w/ Jungleman & Andy!!! $100/200!!! Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=NztRmZOxWBg&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710215526&amp;usg=AOvVaw2d4TXqo9ykkOT4AxlkoklV",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": 170900
+      },
+      {
+        "player": "Big John",
+        "result": 109100
+      },
+      {
+        "player": "Jungleman",
+        "result": 24700
+      },
+      {
+        "player": "Julie",
+        "result": 23800
+      },
+      {
+        "player": "Patrick",
+        "result": -24300
+      },
+      {
+        "player": "Andy",
+        "result": -34900
+      },
+      {
+        "player": "Henry",
+        "result": -139300
+      },
+      {
+        "player": "Krish",
+        "result": -130000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep66",
+    "date": "Nov 1, 2021",
+    "yTitle": "Richard, Marina Mendes & Amber's Closet Play POT LIMIT OMAHA - Commentary by @ComedicGamble on IG - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=2IKM_Kdfw0w&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710216838&amp;usg=AOvVaw0Z8dHer62HTq1QSp_gbjum",
+    "game": [
+      {
+        "player": "Jamie",
+        "result": 10690
+      },
+      {
+        "player": "Dylan",
+        "result": 9570
+      },
+      {
+        "player": "Jane",
+        "result": 3700
+      },
+      {
+        "player": "Oscar",
+        "result": 2085
+      },
+      {
+        "player": "Shaun",
+        "result": 1510
+      },
+      {
+        "player": "Torres",
+        "result": -450
+      },
+      {
+        "player": "Amber",
+        "result": -1965
+      },
+      {
+        "player": "Nick",
+        "result": -2050
+      },
+      {
+        "player": "Craig",
+        "result": -2230
+      },
+      {
+        "player": "Jack",
+        "result": -2280
+      },
+      {
+        "player": "Marina",
+        "result": -3000
+      },
+      {
+        "player": "Daniel",
+        "result": -5810
+      },
+      {
+        "player": "Richard",
+        "result": -9620
+      }
+    ],
+    "total": "150"
+  },
+  {
+    "e": "ep67",
+    "date": "Nov 2, 2021",
+    "yTitle": "Ronnie, Luda Chris, Big John & Nick Vertucci Play $5/5/50 Ante Game - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=fRvLZdWT7E0&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710219800&amp;usg=AOvVaw0DiTnX4i02Vi_Mluv0HdoN",
+    "game": [
+      {
+        "player": "Johnny",
+        "result": 43435
+      },
+      {
+        "player": "Eli",
+        "result": 24935
+      },
+      {
+        "player": "Luda Chris",
+        "result": 22375
+      },
+      {
+        "player": "Ronnie",
+        "result": 12755
+      },
+      {
+        "player": "Bear Jew",
+        "result": -3105
+      },
+      {
+        "player": "Big John",
+        "result": -5780
+      },
+      {
+        "player": "Mayhem",
+        "result": -15625
+      },
+      {
+        "player": "Josh",
+        "result": -20000
+      },
+      {
+        "player": "Nick V",
+        "result": -35000
+      },
+      {
+        "player": "Brian (beard",
+        "result": -23895
+      }
+    ],
+    "total": "95"
+  },
+  {
+    "e": "ep68",
+    "date": "Nov 3, 2021",
+    "yTitle": "DR. ELI!!! RONNIE!!! $10/20 No Limit Hold'Em - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=fsZZ0iuokbg&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710221607&amp;usg=AOvVaw0T_GS4yp9VMcj9sQZeTrRd",
+    "game": [
+      {
+        "player": "Antonious",
+        "result": 14980
+      },
+      {
+        "player": "Marc",
+        "result": 10860
+      },
+      {
+        "player": "Dr. Eli",
+        "result": 4600
+      },
+      {
+        "player": "Darren",
+        "result": -3270
+      },
+      {
+        "player": "V",
+        "result": -3300
+      },
+      {
+        "player": "Patrick",
+        "result": -3900
+      },
+      {
+        "player": "OG Mike",
+        "result": -3930
+      },
+      {
+        "player": "Cowboy John",
+        "result": -5700
+      },
+      {
+        "player": "Ronnie",
+        "result": -10340
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep70",
+    "date": "Nov 5, 2021",
+    "yTitle": "HIGH STAKES POKER!! Garrett Adelstein, Andy, Art Papazyan & Nick Vertucci - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=hEil6u9H2BI&t=22238s&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710224828&amp;usg=AOvVaw2_4XPkfSDzu5k9c6cyNbrI",
+    "game": [
+      {
+        "player": "Patrick",
+        "result": 52625
+      },
+      {
+        "player": "Garrett",
+        "result": 29550
+      },
+      {
+        "player": "Art",
+        "result": 4525
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -1150
+      },
+      {
+        "player": "Andy",
+        "result": -2150
+      },
+      {
+        "player": "Nick",
+        "result": -35150
+      },
+      {
+        "player": "Victor",
+        "result": -48250
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep71",
+    "date": "Nov 8, 2021",
+    "yTitle": "10/20 No Limit Hold'Em w/ Ronnie, Mike Boogie & Armenian Mike - Commentary by Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=dxgLtLGHReQ&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710226348&amp;usg=AOvVaw0tcy3bgh3DxYkaC_cIYOWl",
+    "game": [
+      {
+        "player": "DK",
+        "result": 13650
+      },
+      {
+        "player": "Jerry",
+        "result": 8860
+      },
+      {
+        "player": "Darren",
+        "result": 6590
+      },
+      {
+        "player": "DJ Melo D",
+        "result": 1110
+      },
+      {
+        "player": "Mike Boogie",
+        "result": -3140
+      },
+      {
+        "player": "Ronnie",
+        "result": -4210
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -7860
+      },
+      {
+        "player": "Drew",
+        "result": -15000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep72",
+    "date": "Nov 9, 2021",
+    "yTitle": "Ronnie, Luda Chris & Big John Play $5/5/50 Ante Game - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=cg_vqHSMgUg&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710227825&amp;usg=AOvVaw2S92FLwcZ0qm3nQHdP0hbG",
+    "game": [
+      {
+        "player": "Luda Chris",
+        "result": 15795
+      },
+      {
+        "player": "Mayhem",
+        "result": 10475
+      },
+      {
+        "player": "Ronnie",
+        "result": 10265
+      },
+      {
+        "player": "Josh",
+        "result": 6155
+      },
+      {
+        "player": "Guy Tom",
+        "result": -1000
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -3895
+      },
+      {
+        "player": "Eli",
+        "result": -10630
+      },
+      {
+        "player": "Derek",
+        "result": -13000
+      },
+      {
+        "player": "Big John",
+        "result": -14165
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep73",
+    "date": "Nov 10, 2021",
+    "yTitle": "GARRETT!! ANDY!! ISRAELI RON!! $25/50 No Limit Hold'Em - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=3UsPSaH59N0&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710229045&amp;usg=AOvVaw1ERMIPtWpoSEvO--OOXipS",
+    "game": [
+      {
+        "player": "Tim",
+        "result": 51275
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 23250
+      },
+      {
+        "player": "Andy",
+        "result": 10350
+      },
+      {
+        "player": "RB",
+        "result": -275
+      },
+      {
+        "player": "Garrett",
+        "result": -16500
+      },
+      {
+        "player": "George",
+        "result": -17100
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -25000
+      },
+      {
+        "player": "Eli",
+        "result": -26000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep74",
+    "date": "Nov 11, 2021",
+    "yTitle": "SICKEST ANTE GAME EVER?!? Jerry, Dr. Eli, Luda Chris, Nick Lucas, Jack - Commentary by Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=1cf7tMtyomw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710230162&amp;usg=AOvVaw0qujxgnQvUh9Xhtml7bPf_",
+    "game": [
+      {
+        "player": "Jerry",
+        "result": 50330
+      },
+      {
+        "player": "Luda Chris",
+        "result": 21945
+      },
+      {
+        "player": "Josh",
+        "result": 9690
+      },
+      {
+        "player": "Patrick",
+        "result": 2025
+      },
+      {
+        "player": "Dr. Eli",
+        "result": 540
+      },
+      {
+        "player": "GT",
+        "result": -13520
+      },
+      {
+        "player": "Nick",
+        "result": -17680
+      },
+      {
+        "player": "Jack",
+        "result": -23400
+      },
+      {
+        "player": "Julie",
+        "result": -29930
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep75",
+    "date": "Nov 12, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER!!! $100/200 w/ Garrett, Andy, Gal, Bill Klein, Krish & George - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=QBZSfcC3viI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710231238&amp;usg=AOvVaw0P-9m4AIWgSKxBQvlGZU-U",
+    "game": [
+      {
+        "player": "Bill",
+        "result": 78100
+      },
+      {
+        "player": "Garrett",
+        "result": 52600
+      },
+      {
+        "player": "Andy",
+        "result": 50300
+      },
+      {
+        "player": "Gal",
+        "result": 36000
+      },
+      {
+        "player": "Krish",
+        "result": -27200
+      },
+      {
+        "player": "David",
+        "result": -69800
+      },
+      {
+        "player": "George",
+        "result": -120000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep76",
+    "date": "Nov 15, 2021",
+    "yTitle": "REZA!!! JERRY!!! $25/25 w/ Reza, Jerry, Ronnie, Luda Chris - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=nUpuRYBnVBo&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710232073&amp;usg=AOvVaw2eC-5ENHN6xmtVA2qdr__f",
+    "game": [
+      {
+        "player": "Luda Chris",
+        "result": 62000
+      },
+      {
+        "player": "Patrick",
+        "result": 17725
+      },
+      {
+        "player": "Johnny",
+        "result": 15900
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 6950
+      },
+      {
+        "player": "Ronnie",
+        "result": -2125
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -5750
+      },
+      {
+        "player": "Eli",
+        "result": -13700
+      },
+      {
+        "player": "Reza",
+        "result": -24125
+      },
+      {
+        "player": "Jerry",
+        "result": -56800
+      }
+    ],
+    "total": "75"
+  },
+  {
+    "e": "ep77",
+    "date": "Nov 16, 2021",
+    "yTitle": "ACTION!!! $5/5/50 Ante Game w/ Luda Chris, Mike Nia, Nick Vertucci, Big John - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=mRzIo7RDfxI&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710233131&amp;usg=AOvVaw31LHicdpHmohCfiO5SO24z",
+    "game": [
+      {
+        "player": "Nick",
+        "result": 25910
+      },
+      {
+        "player": "Mike Nia",
+        "result": 20065
+      },
+      {
+        "player": "Johnny",
+        "result": 12320
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 8970
+      },
+      {
+        "player": "Brian",
+        "result": -2615
+      },
+      {
+        "player": "Mayhem",
+        "result": -3580
+      },
+      {
+        "player": "Josh",
+        "result": -9765
+      },
+      {
+        "player": "Big John",
+        "result": -11650
+      },
+      {
+        "player": "Luda Chris",
+        "result": -39655
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep78",
+    "date": "Nov 17, 2021",
+    "yTitle": "10/20 No Limit Hold'Em w/ Marc Goone, Armenian Mike, LG - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=TLkFQsCoyH4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710234152&amp;usg=AOvVaw1Jh_prDLFMKpqTSrDKSZWK",
+    "game": [
+      {
+        "player": "Barry",
+        "result": 10460
+      },
+      {
+        "player": "Marc",
+        "result": 5010
+      },
+      {
+        "player": "Reza #2",
+        "result": 1120
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 920
+      },
+      {
+        "player": "Tim",
+        "result": 370
+      },
+      {
+        "player": "Andrew",
+        "result": -300
+      },
+      {
+        "player": "Spaniard",
+        "result": -1660
+      },
+      {
+        "player": "LG",
+        "result": -6580
+      },
+      {
+        "player": "Darren",
+        "result": -9340
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep79",
+    "date": "Nov 18, 2021",
+    "yTitle": "DR. ELI!! $5/5/50 Ante Game w/ Dr. Eli, Ronnie, Armenian Mike, Nick Vertucci - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=rdfU3ijqlk4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710235124&amp;usg=AOvVaw0gmrqSJJuKkDrj0FT_vlJg",
+    "game": [
+      {
+        "player": "Josh",
+        "result": 15545
+      },
+      {
+        "player": "Ronnie",
+        "result": 12845
+      },
+      {
+        "player": "Zeo",
+        "result": 330
+      },
+      {
+        "player": "Marc",
+        "result": -785
+      },
+      {
+        "player": "Nick",
+        "result": -3250
+      },
+      {
+        "player": "Dr. Eli",
+        "result": -4535
+      },
+      {
+        "player": "RB",
+        "result": -5215
+      },
+      {
+        "player": "Patrick",
+        "result": -6525
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -8410
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep80",
+    "date": "Nov 19, 2021",
+    "yTitle": "HIGH STAKES POKER!! $50/100 w/ Ronnie, Julie, Nick, Armenian Mike - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=DXXz1am-D-M&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710236054&amp;usg=AOvVaw3xC5C0n8flNpY9jQbSFSV5",
+    "game": [
+      {
+        "player": "Zeo",
+        "result": 74925
+      },
+      {
+        "player": "Patrick",
+        "result": 25525
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 16875
+      },
+      {
+        "player": "Nick",
+        "result": 8350
+      },
+      {
+        "player": "Eshan",
+        "result": 8250
+      },
+      {
+        "player": "Big John",
+        "result": -16525
+      },
+      {
+        "player": "Julie",
+        "result": -57700
+      },
+      {
+        "player": "Ronnie",
+        "result": -59700
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep81",
+    "date": "Nov 22, 2021",
+    "yTitle": "Celebrity Poker Game w/ Mikki, Adam22, Ryan Garcia, Andrew Neeme, Phora, Jahaan Sweet & Richard - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Azi0fl2phqw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710236908&amp;usg=AOvVaw1ds24C6Kr2pdTvGKzM_xM2",
+    "game": [
+      {
+        "player": "Andrew",
+        "result": 16940
+      },
+      {
+        "player": "Jahaan",
+        "result": 2930
+      },
+      {
+        "player": "Ian",
+        "result": 2110
+      },
+      {
+        "player": "Mikki",
+        "result": 1900
+      },
+      {
+        "player": "Ryan",
+        "result": 340
+      },
+      {
+        "player": "Adam22",
+        "result": -5040
+      },
+      {
+        "player": "Phora",
+        "result": -7680
+      },
+      {
+        "player": "Richard",
+        "result": -11500
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep82",
+    "date": "Nov 23, 2021",
+    "yTitle": "ACTION ANTE GAME!! Ronnie, Luda Chris, Bear Jew, Mayhem, Armenian Mike - Commentary by Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=2gs2ickPVd4&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710237766&amp;usg=AOvVaw07p7yuyCAyD0xYOf9K0DWo",
+    "game": [
+      {
+        "player": "Bear Jew",
+        "result": 40860
+      },
+      {
+        "player": "Eli",
+        "result": 38080
+      },
+      {
+        "player": "Luda Chris",
+        "result": 9325
+      },
+      {
+        "player": "Ronnie",
+        "result": 3430
+      },
+      {
+        "player": "Mayhem",
+        "result": -235
+      },
+      {
+        "player": "Josh",
+        "result": -3430
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -20105
+      },
+      {
+        "player": "Big John",
+        "result": -22340
+      },
+      {
+        "player": "Jeremy",
+        "result": -45255
+      }
+    ],
+    "total": "330"
+  },
+  {
+    "e": "ep83",
+    "date": "Nov 24, 2021",
+    "yTitle": "25/25 No Limit Hold'em w/ Suited Superman, Francisco, Nick Vertucci - Commentary by Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=ocPtmAUB4-I&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710238712&amp;usg=AOvVaw0D4fXSmd6mhvacUbmi2Ifn",
+    "game": [
+      {
+        "player": "Barry",
+        "result": 50730
+      },
+      {
+        "player": "Mike Nia",
+        "result": 9775
+      },
+      {
+        "player": "Francisco",
+        "result": 9500
+      },
+      {
+        "player": "Patrick",
+        "result": -7475
+      },
+      {
+        "player": "Zeo",
+        "result": -7650
+      },
+      {
+        "player": "Nick",
+        "result": -14350
+      },
+      {
+        "player": "Bear Jew",
+        "result": -19405
+      },
+      {
+        "player": "Suited Super",
+        "result": -20850
+      }
+    ],
+    "total": "275"
+  },
+  {
+    "e": "ep84",
+    "date": "Nov 29, 2021",
+    "yTitle": "Suited Superman Plays $10/20 No Limit Hold'em - Commentary by Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=FU8ThrYTM0E&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710239641&amp;usg=AOvVaw01sdz_Bjc5bHkN2yU6RCo3",
+    "game": [
+      {
+        "player": "Vegas Vinh",
+        "result": 7080
+      },
+      {
+        "player": "Mark",
+        "result": 7010
+      },
+      {
+        "player": "Sheldon",
+        "result": 6670
+      },
+      {
+        "player": "Charles",
+        "result": 2450
+      },
+      {
+        "player": "Suited Super",
+        "result": 1550
+      },
+      {
+        "player": "Johnny",
+        "result": 1030
+      },
+      {
+        "player": "Martin",
+        "result": -3130
+      },
+      {
+        "player": "Freddy",
+        "result": -4660
+      },
+      {
+        "player": "Arbi",
+        "result": -18000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep85",
+    "date": "Nov 30, 2021",
+    "yTitle": "Suited Superman Plays $10/20 No Limit Hold'em - Commentary by Nick Vertucci - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=FU8ThrYTM0E&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710240717&amp;usg=AOvVaw2-fPiEz-pB5iZa548CAM7Z",
+    "game": [
+      {
+        "player": "Brian",
+        "result": 18595
+      },
+      {
+        "player": "Ronnie",
+        "result": 17735
+      },
+      {
+        "player": "Josh",
+        "result": 14665
+      },
+      {
+        "player": "Luda Chris",
+        "result": 12610
+      },
+      {
+        "player": "Big John",
+        "result": 11195
+      },
+      {
+        "player": "Mayhem",
+        "result": -9780
+      },
+      {
+        "player": "Johnny",
+        "result": -15510
+      },
+      {
+        "player": "Nick",
+        "result": -23760
+      },
+      {
+        "player": "Patrick",
+        "result": -25750
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep86",
+    "date": "Dec 1, 2021",
+    "yTitle": "Adam22 & Mariano Play $10/20 No Limit Hold'em - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=d3uyq0ZCxrQ&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710241718&amp;usg=AOvVaw1RgtsEbd8A4bK-oGoz4ISg",
+    "game": [
+      {
+        "player": "Adam22",
+        "result": 15430
+      },
+      {
+        "player": "Kim (white girl",
+        "result": 7130
+      },
+      {
+        "player": "Mariano",
+        "result": 1380
+      },
+      {
+        "player": "Aaron",
+        "result": -190
+      },
+      {
+        "player": "Antonious",
+        "result": -580
+      },
+      {
+        "player": "KK",
+        "result": -740
+      },
+      {
+        "player": "Leo",
+        "result": -2000
+      },
+      {
+        "player": "Felt Warrior",
+        "result": -4680
+      },
+      {
+        "player": "Darren",
+        "result": -7750
+      },
+      {
+        "player": "Rob (white gu",
+        "result": -8000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep87",
+    "date": "Dec 2, 2021",
+    "yTitle": "Ronnie, Francisco, Josh, LG, Nick, Eli - $5/5/50 Ante Game - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=-uQBNBsPczM&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710242756&amp;usg=AOvVaw0rjBOum7KK6X9edAho-i4F",
+    "game": [
+      {
+        "player": "LG",
+        "result": 14090
+      },
+      {
+        "player": "Ronnie",
+        "result": 13400
+      },
+      {
+        "player": "Haroon",
+        "result": 7690
+      },
+      {
+        "player": "Big Fat Fish",
+        "result": 3565
+      },
+      {
+        "player": "Eli",
+        "result": -45
+      },
+      {
+        "player": "Francisco",
+        "result": -4890
+      },
+      {
+        "player": "Nick",
+        "result": -16700
+      },
+      {
+        "player": "Josh",
+        "result": -17110
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep88",
+    "date": "Dec 3, 2021",
+    "yTitle": "HIGH STAKES POKER!! $50/100 w/ Viffer, Lynne, Andy, Ronnie & Francisco!!! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=YmDoo7yfn2w&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710243628&amp;usg=AOvVaw26fa5X_E7JAJFj5ii7hd6f",
+    "game": [
+      {
+        "player": "Andy",
+        "result": 41525
+      },
+      {
+        "player": "Ronnie",
+        "result": 15700
+      },
+      {
+        "player": "Francisco Th",
+        "result": 7800
+      },
+      {
+        "player": "Viffer",
+        "result": -2900
+      },
+      {
+        "player": "Kym",
+        "result": -12575
+      },
+      {
+        "player": "Michael",
+        "result": -14875
+      },
+      {
+        "player": "Lynne",
+        "result": -33050
+      }
+    ],
+    "total": 1625
+  },
+  {
+    "e": "ep89",
+    "date": "Dec 6, 2021",
+    "yTitle": "Dr. Eli, Luda Chris, Josh & Jeremy Play $25/25 No Limit Hold'em - Commentary by DGAF & Ryan Feldman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=WtZGL8-zUA8&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710244500&amp;usg=AOvVaw0pgWAG0rxyZ0iNjfPm3R7n",
+    "game": [
+      {
+        "player": "Danny",
+        "result": 19700
+      },
+      {
+        "player": "Josh",
+        "result": 13400
+      },
+      {
+        "player": "Luda Chris",
+        "result": 9100
+      },
+      {
+        "player": "Jeremy",
+        "result": 7525
+      },
+      {
+        "player": "Dr. Eli",
+        "result": 2550
+      },
+      {
+        "player": "RB",
+        "result": -20850
+      },
+      {
+        "player": "Patrick",
+        "result": -31425
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep90",
+    "date": "Dec 7, 2021",
+    "yTitle": "ACTION $5/5/50 ANTE GAME!! Luda Chris, Nick Vertucci, Ronnie, Big John - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=GWq2cR6R5iw&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710245415&amp;usg=AOvVaw2oGAYwujFctj2h2spOK_cR",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": 39270
+      },
+      {
+        "player": "Brian",
+        "result": 6200
+      },
+      {
+        "player": "Big John",
+        "result": 3570
+      },
+      {
+        "player": "Josh",
+        "result": 2975
+      },
+      {
+        "player": "Mayhem",
+        "result": 2090
+      },
+      {
+        "player": "Eli",
+        "result": 1305
+      },
+      {
+        "player": "Luda Chris",
+        "result": -8725
+      },
+      {
+        "player": "Arbi",
+        "result": -16085
+      },
+      {
+        "player": "Nick",
+        "result": -30600
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep91",
+    "date": "Dec 8, 2021",
+    "yTitle": "David Fletcher, Adam22 & Josh Remitio Play $10/20 No Limit Hold'em - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=Yq9AtP4Za54&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710246401&amp;usg=AOvVaw0HlAljPrRuHOpy6p_UijmN",
+    "game": [
+      {
+        "player": "DK",
+        "result": 17220
+      },
+      {
+        "player": "DJ Melo D",
+        "result": 3860
+      },
+      {
+        "player": "Barry",
+        "result": 3320
+      },
+      {
+        "player": "David",
+        "result": 3300
+      },
+      {
+        "player": "Josh",
+        "result": 110
+      },
+      {
+        "player": "Darren",
+        "result": -3060
+      },
+      {
+        "player": "Adam22",
+        "result": -4600
+      },
+      {
+        "player": "Rob",
+        "result": -7930
+      },
+      {
+        "player": "Big Fat Fish",
+        "result": -12220
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep92",
+    "date": "Dec 9, 2021",
+    "yTitle": "Israeli Ron, Ronnie, Nick Vertucci, Josh & Big John Play $5/5/50 Ante Game - Commentary by DGAF - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=4EsOYWZav4w&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710247335&amp;usg=AOvVaw1XJR6lZVSpXfz0gBXFeCri",
+    "game": [
+      {
+        "player": "Nick",
+        "result": 18820
+      },
+      {
+        "player": "Josh",
+        "result": 17065
+      },
+      {
+        "player": "Danny",
+        "result": 8640
+      },
+      {
+        "player": "Haroon",
+        "result": 4540
+      },
+      {
+        "player": "Patrick",
+        "result": -2395
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -8760
+      },
+      {
+        "player": "Ronnie",
+        "result": -12420
+      },
+      {
+        "player": "Big John",
+        "result": -12490
+      },
+      {
+        "player": "Barry",
+        "result": -13000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep93",
+    "date": "Dec 10, 2021",
+    "yTitle": "SUPER HIGH STAKES POKER!!$100/200/400!! Tom Dwan, Gal, Bill Klein, Krish, Dylan, Julie, Luda Chris - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=TufNIA0vRyQ&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710248298&amp;usg=AOvVaw3ySj4GfOwK0PDei9ilrfMJ",
+    "game": [
+      {
+        "player": "Dylan",
+        "result": 200500
+      },
+      {
+        "player": "Julie",
+        "result": 101900
+      },
+      {
+        "player": "Bill",
+        "result": 68300
+      },
+      {
+        "player": "Luda Chris",
+        "result": 53700
+      },
+      {
+        "player": "Gal",
+        "result": -58600
+      },
+      {
+        "player": "Double M",
+        "result": -74700
+      },
+      {
+        "player": "Tom",
+        "result": -91100
+      },
+      {
+        "player": "Krish",
+        "result": -200000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep94",
+    "date": "Dec 13, 2021",
+    "yTitle": "5/10 POT LIMIT OMAHA w/ Jamie & Leo - Commentary by Marc Goone - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=H4rQrjtUtkU&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710249289&amp;usg=AOvVaw0V9JPaQI8P5a8afALQU7Zk",
+    "game": [
+      {
+        "player": "Debby",
+        "result": 4265
+      },
+      {
+        "player": "Jack",
+        "result": 3485
+      },
+      {
+        "player": "Jamie",
+        "result": 3135
+      },
+      {
+        "player": "Leo",
+        "result": 115
+      },
+      {
+        "player": "Cyndi",
+        "result": -210
+      },
+      {
+        "player": "Panda",
+        "result": -995
+      },
+      {
+        "player": "Chris",
+        "result": -1000
+      },
+      {
+        "player": "Ravivo",
+        "result": -3995
+      },
+      {
+        "player": "Bing Bong",
+        "result": -4800
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep95",
+    "date": "Dec 14, 2021",
+    "yTitle": "Luda Chris, Nick Vertucci, Josh, Big John, Mayhem - $5/5/50 Ante Game - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=hj_M1u7WRHc&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710250216&amp;usg=AOvVaw3vHlSQ9jMh5W3yCjLPQEXn",
+    "game": [
+      {
+        "player": "Luda Chris",
+        "result": 67395
+      },
+      {
+        "player": "Jeremy",
+        "result": 27545
+      },
+      {
+        "player": "Brian",
+        "result": 3790
+      },
+      {
+        "player": "Johnny",
+        "result": -535
+      },
+      {
+        "player": "Nick",
+        "result": -1700
+      },
+      {
+        "player": "Big John",
+        "result": -18600
+      },
+      {
+        "player": "Mayhem",
+        "result": -23000
+      },
+      {
+        "player": "Josh",
+        "result": -24895
+      },
+      {
+        "player": "Patrick",
+        "result": -30000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep96",
+    "date": "Dec 15, 2021",
+    "yTitle": "25/50 No Limit Hold'em w/ Lynne, Israeli Ron, Armenian Mike & Eli - Commentary by RaverPoker - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=6QWjK41kJuk&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710251195&amp;usg=AOvVaw1nYfehF42pxlpqgbOKFJLf",
+    "game": [
+      {
+        "player": "Armenian Mik",
+        "result": 36600
+      },
+      {
+        "player": "Eli",
+        "result": 7200
+      },
+      {
+        "player": "Roger",
+        "result": 6150
+      },
+      {
+        "player": "Barry",
+        "result": 3975
+      },
+      {
+        "player": "Tal",
+        "result": 2875
+      },
+      {
+        "player": "Lynne",
+        "result": 1200
+      },
+      {
+        "player": "Zeo",
+        "result": -7075
+      },
+      {
+        "player": "Haroon",
+        "result": -12350
+      },
+      {
+        "player": "Israeli Ron",
+        "result": -18900
+      },
+      {
+        "player": "DK",
+        "result": -19675
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep97",
+    "date": "Dec 16, 2021",
+    "yTitle": "5/5/50 Ante Game w/ Ronnie, Nick Vertucci & Marc Goone - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=EKN2LSPhINc&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710252336&amp;usg=AOvVaw3VW2aPRZA12X7Er4NP6Tqf",
+    "game": [
+      {
+        "player": "Haroon",
+        "result": 18455
+      },
+      {
+        "player": "Nick",
+        "result": 14585
+      },
+      {
+        "player": "Eshaan",
+        "result": 6840
+      },
+      {
+        "player": "Marc",
+        "result": 3230
+      },
+      {
+        "player": "Danny",
+        "result": 2665
+      },
+      {
+        "player": "Jesse",
+        "result": -960
+      },
+      {
+        "player": "Ronnie",
+        "result": -1450
+      },
+      {
+        "player": "Jordan",
+        "result": -21000
+      },
+      {
+        "player": "Vinh",
+        "result": -22365
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep98",
+    "date": "Dec 17, 2021",
+    "yTitle": "HIGH STAKES POKER!!! $50/100 w/ Lynne, Julie, Kym, Francisco, Nick Vertucci & Jeremy - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=CV7s8dMbfUE&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710253398&amp;usg=AOvVaw2LLeFgI95zkBr6UPCuayI7",
+    "game": [
+      {
+        "player": "Lynne",
+        "result": 37050
+      },
+      {
+        "player": "Eli",
+        "result": 33600
+      },
+      {
+        "player": "Nick",
+        "result": 22075
+      },
+      {
+        "player": "Julie",
+        "result": 17450
+      },
+      {
+        "player": "Kym",
+        "result": 5775
+      },
+      {
+        "player": "Barry",
+        "result": 575
+      },
+      {
+        "player": "Zeo",
+        "result": 475
+      },
+      {
+        "player": "Jeremy",
+        "result": -39800
+      },
+      {
+        "player": "Francisco",
+        "result": -77200
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep99",
+    "date": "Dec 20, 2021",
+    "yTitle": "WILDEST HIGH STAKES GAME EVER!! $25/50 w/ Randall Emmett, Nick Lucas, Denis, Julie - 100th HCL Show! - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=iH7BnCb9xZc&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710254419&amp;usg=AOvVaw2F2zHVnSLZxO4HE2KC0KR-",
+    "game": [
+      {
+        "player": "Eli",
+        "result": 45700
+      },
+      {
+        "player": "JT",
+        "result": 25350
+      },
+      {
+        "player": "Julie",
+        "result": 16150
+      },
+      {
+        "player": "Tiger",
+        "result": 9575
+      },
+      {
+        "player": "Nick V",
+        "result": 6575
+      },
+      {
+        "player": "Denis",
+        "result": -20000
+      },
+      {
+        "player": "Randall",
+        "result": -25000
+      },
+      {
+        "player": "Ben",
+        "result": -28350
+      },
+      {
+        "player": "Nick Lucas",
+        "result": -30000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep100",
+    "date": "Dec 21, 2021",
+    "yTitle": "Norman Chad & David Tuchman Commentate - BIG ACTION $5/5/50/100 w/ Big John, Nick, Mayhem, Eli - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=d8Q-dzj_Fv8&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710255391&amp;usg=AOvVaw1BBBYb3H_nqL5M5-EfOQ58",
+    "game": [
+      {
+        "player": "Patrick",
+        "result": 24130
+      },
+      {
+        "player": "Mayhem",
+        "result": 20665
+      },
+      {
+        "player": "Nick",
+        "result": 10440
+      },
+      {
+        "player": "Big John",
+        "result": 8025
+      },
+      {
+        "player": "Leo",
+        "result": 7635
+      },
+      {
+        "player": "Omar",
+        "result": -10805
+      },
+      {
+        "player": "Eli",
+        "result": -13810
+      },
+      {
+        "player": "Brian",
+        "result": -13915
+      },
+      {
+        "player": "Barry",
+        "result": -19880
+      },
+      {
+        "player": "Ben (hispanic",
+        "result": -12485
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep101",
+    "date": "Dec 22, 2021",
+    "yTitle": "HIGH STAKES $5/5/50/100! Luda Chris, Armenian Mike, Ronnie, Jeremy, Eli - HCL After Hours - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=44r13gmI1Fo&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710256500&amp;usg=AOvVaw040BH3UH4Bla438L4wXR6L",
+    "game": [
+      {
+        "player": "Bear Jew",
+        "result": 39250
+      },
+      {
+        "player": "ELI",
+        "result": 74605
+      },
+      {
+        "player": "Ronnie",
+        "result": 35480
+      },
+      {
+        "player": "Josh",
+        "result": 6615
+      },
+      {
+        "player": "Armenian Mik",
+        "result": -19865
+      },
+      {
+        "player": "Mayhem",
+        "result": -12610
+      },
+      {
+        "player": "Jeremy",
+        "result": -58350
+      },
+      {
+        "player": "Luda Chris",
+        "result": -64825
+      }
+    ],
+    "total": "300"
+  },
+  {
+    "e": "ep102",
+    "date": "Dec 23, 2021",
+    "yTitle": "Armenian Mike, Jeremy, Nick Vertucci, Barry - $5/5/50 Ante Game - Commentary by David Tuchman - YouTube",
+    "yLink": "https://www.youtube.com/watch?v=uCKSqIu0Pps&ab_channel=HustlerCasinoLive&amp;sa=D&amp;source=editors&amp;ust=1646834710257391&amp;usg=AOvVaw0c-UtE6NHvsxnOFCJ-N7CS",
+    "game": [
+      {
+        "player": "Tal",
+        "result": 18135
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 15915
+      },
+      {
+        "player": "Barry",
+        "result": 15875
+      },
+      {
+        "player": "Nick",
+        "result": 13600
+      },
+      {
+        "player": "Varun",
+        "result": 5245
+      },
+      {
+        "player": "Haroon",
+        "result": -3910
+      },
+      {
+        "player": "Casper",
+        "result": -5925
+      },
+      {
+        "player": "Jeremy",
+        "result": -20565
+      },
+      {
+        "player": "Patrick",
+        "result": -38430
+      }
+    ],
+    "total": "-60"
+  },
+  {
+    "e": "ep103",
+    "date": "01.06.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Eli",
+        "result": 123900
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 21250
+      },
+      {
+        "player": "Israeli Ron",
+        "result": 4300
+      },
+      {
+        "player": "Julie",
+        "result": 4150
+      },
+      {
+        "player": "Lynne",
+        "result": -22800
+      },
+      {
+        "player": "Ben",
+        "result": -46200
+      },
+      {
+        "player": "Tiger",
+        "result": -84600
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep104",
+    "date": "01.10.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Tiger King",
+        "result": 16415
+      },
+      {
+        "player": "butterfly",
+        "result": 13550
+      },
+      {
+        "player": "Suited Super",
+        "result": 7825
+      },
+      {
+        "player": "Denis",
+        "result": 5045
+      },
+      {
+        "player": "Big Al",
+        "result": -1260
+      },
+      {
+        "player": "Ben",
+        "result": -3505
+      },
+      {
+        "player": "Surf",
+        "result": -4500
+      },
+      {
+        "player": "Dr Eli",
+        "result": -11670
+      },
+      {
+        "player": "Nick V",
+        "result": -13815
+      }
+    ],
+    "total": 8085
+  },
+  {
+    "e": "ep105",
+    "date": "01.11.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Danny",
+        "result": 53825
+      },
+      {
+        "player": "Barry",
+        "result": 40320
+      },
+      {
+        "player": "Josh",
+        "result": 14820
+      },
+      {
+        "player": "Nick V",
+        "result": 27395
+      },
+      {
+        "player": "Johnny",
+        "result": 5715
+      },
+      {
+        "player": "Mayhem",
+        "result": -14640
+      },
+      {
+        "player": "Luda Chris",
+        "result": -89835
+      },
+      {
+        "player": "Ronnie",
+        "result": -20000
+      },
+      {
+        "player": "Big John",
+        "result": -17600
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep106",
+    "date": "01.12.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "LEO",
+        "result": 11870
+      },
+      {
+        "player": "Paul",
+        "result": 5920
+      },
+      {
+        "player": "Barry",
+        "result": 5180
+      },
+      {
+        "player": "Isreali Ron",
+        "result": 700
+      },
+      {
+        "player": "Mariano",
+        "result": -1470
+      },
+      {
+        "player": "JT",
+        "result": -1720
+      },
+      {
+        "player": "ROB",
+        "result": -5240
+      },
+      {
+        "player": "ZEO",
+        "result": -5380
+      },
+      {
+        "player": "wesley",
+        "result": -6560
+      }
+    ],
+    "total": 3300
+  },
+  {
+    "e": "ep107",
+    "date": "1/13/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Jermey",
+        "result": 19880
+      },
+      {
+        "player": "Barry",
+        "result": 13725
+      },
+      {
+        "player": "Dr Haroon",
+        "result": 7800
+      },
+      {
+        "player": "Marianno",
+        "result": 5535
+      },
+      {
+        "player": "Danny",
+        "result": 2290
+      },
+      {
+        "player": "Ronnie",
+        "result": -4615
+      },
+      {
+        "player": "Nick V",
+        "result": -6425
+      },
+      {
+        "player": "Josh",
+        "result": -18660
+      },
+      {
+        "player": "ELI",
+        "result": -19530
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep108",
+    "date": "1/14/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Gal",
+        "result": 75650
+      },
+      {
+        "player": "Tiger",
+        "result": 30800
+      },
+      {
+        "player": "ZEO",
+        "result": 67650
+      },
+      {
+        "player": "Dr Haroon",
+        "result": -400
+      },
+      {
+        "player": "Wesley",
+        "result": -13050
+      },
+      {
+        "player": "Eli",
+        "result": -13400
+      },
+      {
+        "player": "Ben",
+        "result": -65250
+      },
+      {
+        "player": "Danny",
+        "result": -45850
+      },
+      {
+        "player": "JT",
+        "result": -36150
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep109",
+    "date": "1/17/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Jermey",
+        "result": -29513
+      },
+      {
+        "player": "Luiz",
+        "result": 9300
+      },
+      {
+        "player": "Nick V",
+        "result": 37900
+      },
+      {
+        "player": "Bill (not klein)",
+        "result": -11850
+      },
+      {
+        "player": "Mark",
+        "result": -6750
+      },
+      {
+        "player": "Freddy",
+        "result": 32613
+      },
+      {
+        "player": "Todd",
+        "result": -22475
+      },
+      {
+        "player": "Alex",
+        "result": -9225
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep110",
+    "date": "1/18/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Nick V",
+        "result": 23485
+      },
+      {
+        "player": "Luda Chris",
+        "result": 7250
+      },
+      {
+        "player": "Barry",
+        "result": 17085
+      },
+      {
+        "player": "Mayhem",
+        "result": 10655
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 9210
+      },
+      {
+        "player": "Ronnie",
+        "result": -30335
+      },
+      {
+        "player": "Wesley",
+        "result": -3105
+      },
+      {
+        "player": "Jermey",
+        "result": -7765
+      },
+      {
+        "player": "Big John",
+        "result": -26480
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep111",
+    "date": "1/19/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Nick V",
+        "result": -430
+      },
+      {
+        "player": "Barry",
+        "result": -21300
+      },
+      {
+        "player": "Haroon",
+        "result": 5305
+      },
+      {
+        "player": "Isreali Ron",
+        "result": 32740
+      },
+      {
+        "player": "RB",
+        "result": 16595
+      },
+      {
+        "player": "Wesley",
+        "result": -31745
+      },
+      {
+        "player": "Sam (kid, whit",
+        "result": 37415
+      },
+      {
+        "player": "ZEO",
+        "result": -31290
+      },
+      {
+        "player": "JL",
+        "result": -7290
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep112",
+    "date": "1/20/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": -400
+      },
+      {
+        "player": "Matt Berkey",
+        "result": 8275
+      },
+      {
+        "player": "Poker Bunny",
+        "result": 34750
+      },
+      {
+        "player": "ZEO",
+        "result": 19375
+      },
+      {
+        "player": "Wesley",
+        "result": -10775
+      },
+      {
+        "player": "Eli",
+        "result": -3175
+      },
+      {
+        "player": "NJ",
+        "result": 27075
+      },
+      {
+        "player": "Victor",
+        "result": -75125
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep113",
+    "date": "1/21/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Wesley",
+        "result": 72100
+      },
+      {
+        "player": "Kane Kalas",
+        "result": 64500
+      },
+      {
+        "player": "Ben",
+        "result": 50400
+      },
+      {
+        "player": "Isreali Ron",
+        "result": 27400
+      },
+      {
+        "player": "NJ",
+        "result": 7100
+      },
+      {
+        "player": "Julie",
+        "result": -31000
+      },
+      {
+        "player": "Poker Bunny",
+        "result": -59600
+      },
+      {
+        "player": "Tiger",
+        "result": -36200
+      },
+      {
+        "player": "Henry",
+        "result": -94700
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep114",
+    "date": "1/24/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Casper",
+        "result": 17325
+      },
+      {
+        "player": "Johnny",
+        "result": 14250
+      },
+      {
+        "player": "ELi",
+        "result": 11900
+      },
+      {
+        "player": "Luda Chris",
+        "result": 9525
+      },
+      {
+        "player": "Wesley",
+        "result": 450
+      },
+      {
+        "player": "Nick V",
+        "result": -8475
+      },
+      {
+        "player": "JT",
+        "result": -19825
+      },
+      {
+        "player": "Barry",
+        "result": -25150
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep115",
+    "date": "1/25/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Johnny",
+        "result": 34010
+      },
+      {
+        "player": "Big John",
+        "result": 29565
+      },
+      {
+        "player": "Armenian Mik",
+        "result": 10140
+      },
+      {
+        "player": "Nick V",
+        "result": 7070
+      },
+      {
+        "player": "Ronnie",
+        "result": 5230
+      },
+      {
+        "player": "Josh",
+        "result": -11800
+      },
+      {
+        "player": "Mayhem",
+        "result": -13500
+      },
+      {
+        "player": "Barry",
+        "result": -28000
+      },
+      {
+        "player": "Luda Chris",
+        "result": -32715
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep116",
+    "date": "1/26/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Ronnie",
+        "result": 14550
+      },
+      {
+        "player": "DJ washburn",
+        "result": 7930
+      },
+      {
+        "player": "Darren",
+        "result": 7440
+      },
+      {
+        "player": "Varun",
+        "result": 3310
+      },
+      {
+        "player": "Paul C",
+        "result": 580
+      },
+      {
+        "player": "Suited Super",
+        "result": -910
+      },
+      {
+        "player": "Simon",
+        "result": -4520
+      },
+      {
+        "player": "Andrew",
+        "result": -8780
+      },
+      {
+        "player": "Wesley",
+        "result": -10750
+      },
+      {
+        "player": "Antonious",
+        "result": -8850
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep117",
+    "date": "1/27/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Nick V",
+        "result": 23150
+      },
+      {
+        "player": "Eli",
+        "result": 22700
+      },
+      {
+        "player": "Barry",
+        "result": 12875
+      },
+      {
+        "player": "Varun",
+        "result": 3750
+      },
+      {
+        "player": "Haroon",
+        "result": -4400
+      },
+      {
+        "player": "RB",
+        "result": -13450
+      },
+      {
+        "player": "Garrett",
+        "result": -14625
+      },
+      {
+        "player": "David (asian",
+        "result": -30000
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep118",
+    "date": "1/28/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Michael (old",
+        "result": 66100
+      },
+      {
+        "player": "Wesley",
+        "result": 61000
+      },
+      {
+        "player": "Ben",
+        "result": 43400
+      },
+      {
+        "player": "Tiger (king)",
+        "result": 10900
+      },
+      {
+        "player": "Garrett",
+        "result": 3000
+      },
+      {
+        "player": "JR",
+        "result": -53700
+      },
+      {
+        "player": "Julie",
+        "result": -6000
+      },
+      {
+        "player": "Isreali Ron",
+        "result": -95500
+      },
+      {
+        "player": "DC Lawyer",
+        "result": -29200
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep119",
+    "date": "1/31/22",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Shawn",
+        "result": 8730
+      },
+      {
+        "player": "Dan",
+        "result": 7155
+      },
+      {
+        "player": "Marina",
+        "result": 4640
+      },
+      {
+        "player": "Jason",
+        "result": -175
+      },
+      {
+        "player": "Paulah",
+        "result": -1155
+      },
+      {
+        "player": "Greg",
+        "result": -1205
+      },
+      {
+        "player": "Todd",
+        "result": -2075
+      },
+      {
+        "player": "Texas",
+        "result": -2135
+      },
+      {
+        "player": "Jamie (girl)",
+        "result": -5835
+      },
+      {
+        "player": "Gilbert Arena",
+        "result": -3545
+      },
+      {
+        "player": "Connor",
+        "result": -4400
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep120",
+    "date": "02.01.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Nick V",
+        "result": 114010
+      },
+      {
+        "player": "Francisco",
+        "result": 15685
+      },
+      {
+        "player": "Nik A",
+        "result": 14925
+      },
+      {
+        "player": "Ronnie",
+        "result": 5275
+      },
+      {
+        "player": "Antonio",
+        "result": 4450
+      },
+      {
+        "player": "Mayhem",
+        "result": 2495
+      },
+      {
+        "player": "Big John",
+        "result": -25155
+      },
+      {
+        "player": "Eli",
+        "result": -36350
+      },
+      {
+        "player": "Luda Chris",
+        "result": -95335
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep121",
+    "date": "02.02.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Michael (ron J",
+        "result": 13448
+      },
+      {
+        "player": "Skillsrock",
+        "result": 11430
+      },
+      {
+        "player": "aaron",
+        "result": 4260
+      },
+      {
+        "player": "Candie",
+        "result": 3650
+      },
+      {
+        "player": "Poker Bunny",
+        "result": -530
+      },
+      {
+        "player": "Darren",
+        "result": -2660
+      },
+      {
+        "player": "Barry",
+        "result": -4570
+      },
+      {
+        "player": "Antonio (you",
+        "result": -25028
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep122",
+    "date": "02.03.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Michael (ron J",
+        "result": 16668
+      },
+      {
+        "player": "Ronnie",
+        "result": 9665
+      },
+      {
+        "player": "Nick V",
+        "result": 2315
+      },
+      {
+        "player": "Zeo",
+        "result": -37250
+      },
+      {
+        "player": "Jermey",
+        "result": 15830
+      },
+      {
+        "player": "Haroon",
+        "result": -23358
+      },
+      {
+        "player": "Salim",
+        "result": 24285
+      },
+      {
+        "player": "Tal",
+        "result": -5030
+      },
+      {
+        "player": "Armenian mik",
+        "result": -3125
+      }
+    ],
+    "total": "0"
+  },
+  {
+    "e": "ep123",
+    "date": "02.04.2022",
+    "yTitle": "not set",
+    "game": [
+      {
+        "player": "Josh",
+        "result": 0
+      },
+      {
+        "player": "Haroon",
+        "result": 0
+      },
+      {
+        "player": "Barry",
+        "result": -49925
+      },
+      {
+        "player": "Garrett",
+        "result": 0
+      },
+      {
+        "player": "Ronnie",
+        "result": 0
+      },
+      {
+        "player": "Nick V",
+        "result": 0
+      },
+      {
+        "player": "Nick Lucas",
+        "result": 0
+      },
+      {
+        "player": "Tiger",
+        "result": 0
+      },
+      {
+        "player": "Rahul",
+        "result": 0
+      }
+    ],
+    "total": -49925
+  }
+]
